@@ -2,7 +2,7 @@
 
 ## Principios Constitucionales, Democracia, Nacionalidad y Ciudadanía
 
-## Comisión de Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
+## Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
 
 ## Derechos Fundamentales
 
