@@ -4,6 +4,125 @@
 
 ## Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
 
+**Del Estado Regional.**  
+Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado.  
+El Estado promoverá la cooperación, la integración armónica y el desarrollo adecuado y justo entre las diversas entidades territoriales.
+
+**De las Entidades Territoriales.**  
+El Estado se organiza territorialmente en regiones autónomas , comunas autónomas, autonomías territoriales indígenas y territorios especiales.  
+La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios objetivos en función de antecedentes históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes, de acuerdo con la Constitución y la ley.
+
+**Del Territorio.**  
+Chile, en su diversidad geográfica, natural, histórica y cultural, forma un territorio único e indivisible.
+
+*Del Maritorio*  
+Es deber del Estado proteger los espacios y ecosistemas marinos y marino-costeros, propiciando las diversas vocaciones y usos asociados a ellos, y asegurando, en todo caso, su preservación, conservación y restauración ecológica. La ley establecerá su ordenación espacial y gestión integrada, mediante un trato diferenciado, autónomo y descentralizado, según corresponda, en base a la equidad y justicia territorial.
+
+**De la Autonomía de las entidades territoriales.**  
+Las regiones autónomas, comunas autónomas y autonomías territoriales indígenas están dotadas de autonomía política, administrativa y financiera para la realización de sus fines e intereses en los términos establecidos por la presente Constitución y la ley.  
+En ningún caso el ejercicio de la autonomía podrá atentar en contra del carácter único e indivisible del Estado de Chile, ni permitirá la secesión territorial.
+
+**De la solidaridad, cooperación y asociatividad territorial en el Estado Regional.**  
+Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo, evitando la duplicidad de funciones, en conformidad a los mecanismos que establezca la ley.  
+Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado.  
+Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado.
+
+**De la Participación en las entidades territoriales en el Estado Regional.**  
+Las entidades territoriales garantizan el derecho de sus habitantes a participar, individual o colectivamente en las decisiones públicas, comprendiendo en ella la formulación, ejecución, evaluación, fiscalización y control democrático de la función pública, con arreglo a la Constitución y las leyes. Los pueblos y naciones preexistentes al Estado deberán ser consultados y otorgar el consentimiento libre, previo e informado en aquellas materias o asuntos que les afecten en sus derechos reconocidos en esta Constitución.
+
+**Del Desarrollo Territorial.**  
+Es deber de las entidades territoriales, en el ámbito de sus competencias, establecer una política permanente de equidad territorial de desarrollo sostenible y armónico con la naturaleza.  
+Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de suficiencia presupuestaria, inclusión e interculturalidad, integración socioespacial, perspectiva de género, enfoque socio ecosistémico, enfoque en derechos humanos y los demás que establezca esta Constitución.
+
+**De la Equidad, Solidaridad y justicia territorial.**  
+El Estado garantiza un tratamiento equitativo y un desarrollo armónico y solidario entre las diversas entidades territoriales, propendiendo al interés general, no pudiendo establecer diferencias arbitrarias entre ellas, asegurando a su vez, las mismas condiciones de acceso a los servicios públicos, al empleo y a todas las prestaciones estatales, sin perjuicio del lugar que habiten en el territorio, estableciendo de ser necesario, acciones afirmativas en favor de los grupos empobrecidos e históricamente vulnerados. El Estado de Chile promoverá un desarrollo territorial equitativo, armónico y solidario que permita una integración efectiva de las distintas localidades, tanto urbanas como rurales, promoviendo la equidad horizontal en la provisión de bienes y servicios.
+
+**De la Plurinacionalidad e interculturalidad en el Estado Regional.**  
+Las entidades territoriales y sus órganos reconocen, garantizan y promueven en todo su actuar el reconocimiento político y jurídico de los pueblos y naciones preexistentes al Estado que habitan sus territorios; su supervivencia, existencia y desarrollo armónico e integral; la distribución equitativa del poder y de los espacios de participación política; el uso, reconocimiento y promoción de las lenguas indígenas que se hablan en ellas, propiciando el entendimiento intercultural, el respeto de formas diversas de ver, organizar y concebir el mundo y de relacionarse con la naturaleza; la protección y el respeto de los derechos de autodeterminación y de autonomía de los territorios indígenas, en coordinación con el resto de las entidades territoriales.
+
+**De la postulación y cesación a los cargos de las entidades territoriales.**  
+La elección de las y los representantes por votación popular de las entidades territoriales se efectuará asegurando la paridad de género, la probidad, la representatividad territorial, la pertenencia territorial, avecindamiento y la representación efectiva de los pueblos y naciones preexistentes al Estado.  
+La Constitución y la ley establecerán los requisitos para la postulación y las causales de cesación de dichos cargos. La calificación y procedencia de estas causales de cesación se realizará a través de un procedimiento expedito ante la justicia electoral, en conformidad a la ley.
+
+**Principio de no tutela entre entidades territoriales.**  
+Ninguna entidad territorial podrá ejercer tutela sobre otra entidad territorial, sin perjuicio de la aplicación de los principios de coordinación, de asociatividad, de solidaridad, y los conflictos de competencias que puedan ocasionarse.
+
+**Correspondencia entre competencias y recursos.**  
+Sin perjuicio de las competencias que establece esta Constitución y la ley, el Estado podrá transferir a las entidades territoriales aquellas competencias de titularidad estatal que por su propia naturaleza son susceptibles de transferencia. Estas transferencias deberán ir acompañadas siempre por el personal y los recursos financieros suficientes y oportunos para su adecuada ejecución.  
+Una ley regulará el régimen jurídico del procedimiento de transferencia de competencias y sus sistemas de evaluación y control.
+
+**Cuestiones de competencia.**  
+La ley establecerá el procedimiento para resolución de las distintas contiendas de competencia que se susciten entre el Estado y las entidades territoriales, o entre ellas, las que serán conocidas por el órgano encargado de la justicia constitucional.
+
+**Radicación preferente de competencias.**  
+Las funciones públicas deberán radicarse priorizando la entidad local sobre la regional y ésta última sobre el Estado, sin perjuicio de aquellas competencias que la propia Constitución o las leyes reserven a cada una de estas entidades territoriales. La Región Autónoma o el Estado, cuando así lo exija el interés general, podrán subrogar de manera transitoria y supletoria las competencias que no puedan ser asumidas por la entidad local.
+
+**Diferenciación territorial.**  
+El Estado deberá generar políticas públicas diferenciadas y transferir las competencias que mejor se ajusten a las necesidades y particularidades de los entes territoriales, con los respectivos recursos. La ley establecerá los criterios y requisitos para la aplicación de diferencias territoriales, así como los mecanismos de solidaridad y equidad que compensen las desigualdades entre los distintos niveles territoriales.
+
+**De las Regiones Autónomas.**  
+Las Regiones autónomas son entidades políticas y territoriales dotadas de personalidad jurídica de derecho público y patrimonio propio que gozan de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativa, reglamentaria, ejecutiva y fiscalizadora a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.
+
+**Del Gobierno Regional.**  
+El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.  
+Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.  
+En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.  
+La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.  
+La Gobernadora o Gobernador regional, será elegido en votación directa, en conformidad con lo dispuesto en la Constitución y la ley.
+
+**Del Consejo de Alcaldes y Alcaldesas.**  
+El Consejo de Alcaldes y Alcaldesas es un órgano de carácter consultivo que estará integrado por los alcaldes y alcaldesas de todas las comunas de la región autónoma y de las ciudades respectivas, el cual será coordinado por quien determinen sus integrantes por mayoría absoluta.  
+El Consejo deberá sesionar y abordar las problemáticas de la región autónoma, promover una coordinación efectiva entre los distintos órganos con presencia regional y fomentar una cooperación eficaz entre los gobiernos locales en la forma que determine la ley.
+
+*Del Consejo Social Regional*  
+La Constitución y la ley establecerán las bases de los mecanismos y procedimientos de participación popular, velando por un involucramiento efectivo de las personas y sus organizaciones dentro de la Región Autónoma.
+
+*De las competencias de la Región autónoma.*  
+*Son competencias de la Región autónoma:*  
+    1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto.  
+    2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes.  
+    3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales.  
+    4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes.  
+    5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional.  
+    6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio.  
+    7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma.  
+    8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio.  
+    9. La planificación, ordenamiento territorial y manejo integrado de cuencas.  
+    10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución.  
+    11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma.  
+    12. La planificación e implementación de la conectividad física y digital.  
+    15. La regulación y administración de los bosques, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias.  
+    16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma.  
+    17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales.  
+    20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.  
+    21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia.  
+    22. Promover la participación popular en asuntos de interés regional.; y  
+    24.- Las demás competencias que determine la Constitución y ley nacional.
+
+**De las entidades con competencias sobre todo el territorio.**  
+La ley determinará cuáles Servicios Públicos, Instituciones Autónomas o Empresas del Estado, en virtud de sus fines fiscalizadores, o por razones de eficiencia y de interés general, mantendrán una organización centralizada y desconcentrada en todo el territorio de la República.
+
+**Del Consejo de Gobernaciones.**  
+El Consejo de Gobernaciones, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto.
+
+Son facultades del Consejo de Gobernaciones:  
+    a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones;  
+    e) Convocar encuentros sectoriales entre entidades territoriales.  
+    g) Las demás que establezcan la Constitución y la ley;  
+
+**De las atribuciones exclusivas del Gobierno Regional.**
+Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
+
+    3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.  
+    5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región.  
+    8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma.  
+    12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.  
+    13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley.  
+    17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma.  
+    18. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley.  
+    19. Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la Región Autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo.  
+    20. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.
+
 ## Derechos Fundamentales
 
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
@@ -34,10 +153,11 @@ Las juezas y jueces son personalmente responsables por los delitos de cohecho, f
 En los procesos en que intervengan niñas, niños y adolescentes, se deberá procurar el resguardo de su identidad.  
 Los principios de probidad y de transparencia serán aplicables a todas las personas que ejercen jurisdicción en el país. La ley establecerá las responsabilidades correspondientes en caso de infracción a esta disposición
 
-**Principio de Justicia Abierta.** 
+**Principio de Justicia Abierta.**  
 La función jurisdiccional se basa en los principios rectores de la Justicia Abierta, que se manifiesta en la transparencia, participación y colaboración, con el fin de garantizar el Estado de Derecho, promover la paz social y fortalecer la democracia.
 
-**Paridad y perspectiva de género.** La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva.  
+**Paridad y perspectiva de género.**  
+La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva.  
 El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia respeten el principio de paridad en todos los órganos de la jurisdicción, incluyendo la designación de las presidencias.  
 Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.
 
