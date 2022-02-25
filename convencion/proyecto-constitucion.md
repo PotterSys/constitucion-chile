@@ -169,3 +169,29 @@ Es deber del Estado promover e implementar mecanismos colaborativos de resoluci�
 Sólo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.
 
 ## Sistemas de Conocimientos, Culturas, Ciencia, Tecnología, Artes y Patrimonios
+
+El Estado tiene el deber de respetar la libertad de prensa, velar por el pluralismo de los medios de comunicación y por la diversidad de opiniones, siendo esto consustancial a la democracia y su fortalecimiento. Se prohíbe la censura previa.
+
+Toda persona ofendida o injustamente aludida por un medio de comunicación e información tiene derecho a que su aclaración o rectificación sea difundida gratuitamente por el mismo medio en que hubiese sido emitida. La ley regulará el ejercicio de este derecho, con pleno respeto a la libertad de expresión.
+
+El Estado promueve, fomenta y garantiza el acceso, desarrollo y difusión de las culturas, las artes y los conocimientos, atendiendo a la diversidad cultural en todas sus manifestaciones y contribuciones, bajo los principios de colaboración e interculturalidad. El Estado debe generar las instancias para que la sociedad contribuya al desarrollo de la creatividad cultural y artística, en sus más diversas expresiones. El Estado promueve las condiciones para el libre desarrollo de la identidad cultural de las comunidades y personas, así como de sus procesos culturales. Esto se realizará con pleno respeto a los derechos, libertades y las autonomías que consagra esta Constitución.
+
+Los pueblos y naciones preexistentes tienen derecho a obtener la repatriación de objetos de cultura y de restos humanos pertenecientes a los pueblos. El Estado adoptará mecanismos eficaces en materia de restitución y repatriación de objetos de culto y restos humanos que fueron confiscados sin consentimiento de los pueblos y garantizará el acceso de los pueblos a su propio patrimonio, incluyendo objetos, restos humanos y sitios culturalmente significativos para su desarrollo.
+
+El Estado velará por remover los obstáculos que impidan o dificulten el acceso, goce y ejercicio de los derechos culturales, con el objeto de desarrollar una vida cultural plena.
+
+Todas las personas, individual y colectivamente, tienen derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación, con pleno respeto de los derechos y garantías que establecen esta Constitución y las leyes.
+
+El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras”. El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida. La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.
+
+El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.
+
+El Estado garantiza el acceso libre, equitativo y descentralizado, con condiciones de calidad y velocidad adecuadas y efectivas a los servicios básicos de comunicación.
+
+Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto.
+
+Se reconoce el derecho de todas las personas a una vida libre de violencia en cualquier plataforma o medio digital, con especial énfasis en los grupos históricamente excluidos. El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.
+
+El Estado reconoce la neuro diversidad y a las personas neuro divergentes, su derecho a una vida plena, al buen vivir, autonomía y autodeterminación durante todo su ciclo vital; a su respecto debe garantizar el acceso todos los derechos reconocidos en esta Constitución y en tratados internacionales ratificados por Chile, asegurando los ajustes necesarios y especializados dirigidos a eliminar las barreras estructurales que impidan su ejercicio pleno. El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones sin discriminación. Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.
+
+La Constitución reconoce el principio de protección de la identidad humana presente y futura, base del respeto de la dignidad personal como principio y valor en sí.
