@@ -131,6 +131,12 @@ Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
 ### Sistemas de Justicia
 
+**La función jurisdiccional.**  
+La jurisdicción es una función pública que se ejerce en nombre de los pueblos y que consiste en conocer y juzgar, por medio de un debido proceso los conflictos de relevancia jurídica y hacer ejecutar lo resuelto, de conformidad a la Constitución y las leyes, así como los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. Se ejerce exclusivamente por los tribunales de justicia y las autoridades de los pueblos indígenas reconocidos por la Constitución o las leyes dictadas conforme a ella. Al ejercer la jurisdicción se debe velar por la tutela y promoción de los derechos humanos y de la naturaleza, del sistema democrático y el principio de juridicidad.
+
+**Pluralismo jurídico.**  
+El Estado reconoce los sistemas jurídicos de los Pueblos Indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia. Estos deberán respetar los derechos fundamentales que establece esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. La ley determinará los mecanismos de coordinación, cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.
+
 **Independencia jurisdiccional, imparcialidad y exclusividad.**  
 Las juezas y jueces que ejercen jurisdicción son independientes entre sí y de todo otro poder o autoridad, debiendo actuar y resolver de forma imparcial. En sus providencias, sólo están sometidos al imperio de la ley.  
 La función jurisdiccional la ejercen exclusivamente los tribunales establecidos por ley. Ningún otro órgano del Estado, persona o grupo de personas, podrán ejercer la función jurisdiccional, conocer causas pendientes, modificar los fundamentos o el contenido de las resoluciones judiciales o reabrir procesos concluidos.  
@@ -138,20 +144,38 @@ Las juezas y jueces no podrán desempeñar ninguna otra función o empleo, salvo
 Las juezas y jueces sólo ejercerán la función jurisdiccional, no pudiendo desempeñar función administrativa ni legislativa alguna.  
 Las juezas y jueces no podrán militar en partidos políticos.
 
+**De la inamovilidad.**  
+Las juezas y jueces son inamovibles. No pueden ser suspendidos, trasladados o removidos sino conforme a las causales y procedimientos establecidos por la Constitución y las leyes.
+
+#### Principios generales
+
+**Derecho de acceso a la justicia.**  
+La Constitución garantiza el pleno acceso a la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos sociales, culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos jurisdiccionales para la tutela y el ejercicio de sus derechos.  
 Los tribunales deben brindar una atención adecuada a quienes presenten peticiones o consultas ante ellos, otorgando siempre un trato digno y respetuoso. Una ley establecerá sus derechos y deberes.
 
 **Tutela jurisdiccional efectiva.**  
 Todas las personas tienen derecho a requerir de los tribunales de justicia la tutela efectiva de sus derechos e intereses legítimos, de manera oportuna y eficaz conforme a los principios y estándares reconocidos en la Constitución y las leyes.
+
+**Inexcusabilidad e indelegabilidad.**  
+Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales no podrán excusarse de ejercer su función en un tiempo razonable ni aún a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión. El ejercicio de la jurisdicción es indelegable.
+
+**Ejecución de las resoluciones.**  
+Para hacer ejecutar las resoluciones y practicar o hacer practicar las actuaciones que determine la ley, los tribunales de justicia podrán impartir órdenes o instrucciones directas a la fuerza pública, debiendo cumplir lo mandatado de forma rápida y expedita, sin poder calificar su fundamento, oportunidad o legalidad. Las sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos, cuya jurisdicción ha sido reconocida por éste, serán cumplidas por los tribunales de justicia conforme al procedimiento establecido por la ley, aun si contraviniere una sentencia firme pronunciada por estos.
+
+**Fundamentación y lenguaje claro.**  
+Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. La ley podrá establecer excepciones al deber de fundamentación de las resoluciones judiciales.
 
 **Gratuidad.**  
 El acceso a la función jurisdiccional será gratuito, sin perjuicio de las actuaciones judiciales y sanciones procesales establecidas por la ley.  
 La justicia arbitral será siempre voluntaria. La ley no podrá establecer arbitrajes forzosos.
 
 **Principio de responsabilidad jurisdiccional.**  
-Las juezas y jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, y, en general, por toda prevaricación, denegación o torcida administración de justicia. La ley determinará los casos y el modo de hacer efectiva esta responsabilidad.
+Las juezas y jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, y, en general, por toda prevaricación, denegación o torcida administración de justicia. La ley determinará los casos y el modo de hacer efectiva esta responsabilidad.  
+Los perjuicios por error judicial otorgarán el derecho a una indemnización por el Estado, conforme al procedimiento establecido en la Constitución y las leyes.
 
+*Publicidad, Probidad y Transparencia*  
 En los procesos en que intervengan niñas, niños y adolescentes, se deberá procurar el resguardo de su identidad.  
-Los principios de probidad y de transparencia serán aplicables a todas las personas que ejercen jurisdicción en el país. La ley establecerá las responsabilidades correspondientes en caso de infracción a esta disposición
+Los principios de probidad y de transparencia serán aplicables a todas las personas que ejercen jurisdicción en el país. La ley establecerá las responsabilidades correspondientes en caso de infracción a esta disposición.
 
 **Principio de Justicia Abierta.**  
 La función jurisdiccional se basa en los principios rectores de la Justicia Abierta, que se manifiesta en la transparencia, participación y colaboración, con el fin de garantizar el Estado de Derecho, promover la paz social y fortalecer la democracia.
@@ -162,7 +186,8 @@ El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia res
 Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.
 
 **Plurinacionalidad, pluralismo jurídico e interculturalidad.**  
-La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.
+La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.  
+Cuando se trate de personas indígenas, los tribunales y sus funcionarios deberán adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, tomando debidamente en consideración las costumbres, tradiciones, protocolos y los sistemas normativos de los pueblos indígenas, conforme a los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.
 
 **Mecanismos Colaborativos de Resolución de Conflictos.**  
 Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo.  
