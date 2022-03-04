@@ -10,10 +10,12 @@ El Estado promoverá la cooperación, la integración armónica y el desarrollo 
 
 **De las Entidades Territoriales.**  
 El Estado se organiza territorialmente en regiones autónomas , comunas autónomas, autonomías territoriales indígenas y territorios especiales.  
+Las entidades territoriales autónomas tienen personalidad jurídica y patrimonio propio y las potestades y competencias necesarias para gobernarse en atención al interés general de la República, de acuerdo a la Constitución y la ley, teniendo como límites los derechos humanos y de la Naturaleza.  
 La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios objetivos en función de antecedentes históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes, de acuerdo con la Constitución y la ley.
 
 **Del Territorio.**  
-Chile, en su diversidad geográfica, natural, histórica y cultural, forma un territorio único e indivisible.
+Chile, en su diversidad geográfica, natural, histórica y cultural, forma un territorio único e indivisible.  
+La soberanía y jurisdicción sobre el territorio se ejerce de acuerdo a la Constitución, la ley y el derecho internacional.
 
 *Del Maritorio*  
 Es deber del Estado proteger los espacios y ecosistemas marinos y marino-costeros, propiciando las diversas vocaciones y usos asociados a ellos, y asegurando, en todo caso, su preservación, conservación y restauración ecológica. La ley establecerá su ordenación espacial y gestión integrada, mediante un trato diferenciado, autónomo y descentralizado, según corresponda, en base a la equidad y justicia territorial.
@@ -25,6 +27,7 @@ En ningún caso el ejercicio de la autonomía podrá atentar en contra del cará
 **De la solidaridad, cooperación y asociatividad territorial en el Estado Regional.**  
 Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo, evitando la duplicidad de funciones, en conformidad a los mecanismos que establezca la ley.  
 Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado.  
+El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, en concordancia con la normativa regional respectiva.  
 Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado.
 
 **De la Participación en las entidades territoriales en el Estado Regional.**  
@@ -63,6 +66,20 @@ El Estado deberá generar políticas públicas diferenciadas y transferir las co
 **De las Regiones Autónomas.**  
 Las Regiones autónomas son entidades políticas y territoriales dotadas de personalidad jurídica de derecho público y patrimonio propio que gozan de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativa, reglamentaria, ejecutiva y fiscalizadora a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.
 
+**Cláusula residual.**  
+Las competencias no expresamente conferidas a la Región autónoma corresponden al Estado, sin perjuicio de las transferencias de competencia que regula la Constitución y la ley.
+
+**Del Estatuto Regional.**  
+Cada Región Autónoma establecerá su organización administrativa y funcionamiento interno, en el marco de las competencias fiscalizadoras, normativas, resolutivas, administrativas y las demás establecidas en la Constitución y las leyes.  
+El Estatuto Regional debe respetar los derechos fundamentales y los principios del Estado social y democrático de derecho reconocidos en los términos establecidos en la Constitución.
+
+**De la elaboración, aprobación y reforma del Estatuto Regional.**  
+El proyecto de Estatuto Regional será propuesto por la Gobernadora o Gobernador Regional a la Asamblea Regional respectiva, para su deliberación y acuerdo, el cual será aprobado por la mayoría absoluta de sus miembros en ejercicio.  
+El proceso de elaboración y reforma del Estatuto Regional deberá garantizar la participación popular, democrática y vinculante de sus habitantes.
+
+**De la Autoridades Regionales.**  
+La organización institucional de las Regiones Autónomas se compone del Gobernador o Gobernadora Regional y de la Asamblea Regional.
+
 **Del Gobierno Regional.**  
 El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.  
 Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.  
@@ -74,8 +91,15 @@ La Gobernadora o Gobernador regional, será elegido en votación directa, en con
 El Consejo de Alcaldes y Alcaldesas es un órgano de carácter consultivo que estará integrado por los alcaldes y alcaldesas de todas las comunas de la región autónoma y de las ciudades respectivas, el cual será coordinado por quien determinen sus integrantes por mayoría absoluta.  
 El Consejo deberá sesionar y abordar las problemáticas de la región autónoma, promover una coordinación efectiva entre los distintos órganos con presencia regional y fomentar una cooperación eficaz entre los gobiernos locales en la forma que determine la ley.
 
-*Del Consejo Social Regional*  
-La Constitución y la ley establecerán las bases de los mecanismos y procedimientos de participación popular, velando por un involucramiento efectivo de las personas y sus organizaciones dentro de la Región Autónoma.
+**De la Asamblea Regional.**  
+La Asamblea Regional es el órgano colegiado de representación regional que, en conformidad a la Constitución, está dotado de potestades normativas, resolutivas y fiscalizadoras.  
+Una ley determinará los requisitos generales para acceder al cargo de Asambleísta Regional y su número en proporción a la población regional. La elección de Asambleístas Regionales será por sufragio universal, directo y secreto.  
+Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
+
+**Del Consejo Social Regional.** 
+El Consejo Social Regional es el encargado de promover la participación popular en los asuntos públicos regionales de carácter participativo y consultivo. Su integración y competencias serán determinadas por ley.  
+La Constitución y la ley establecerán las bases de los mecanismos y procedimientos de participación popular, velando por un involucramiento efectivo de las personas y sus organizaciones dentro de la Región Autónoma.  
+El Gobernador o Gobernadora Regional y las jefaturas de los servicios públicos regionales deberán rendir cuenta ante el Consejo Social Regional, a lo menos, una vez al año de la ejecución presupuestaria y el desarrollo de proyectos en los términos prescritos por el Estatuto Regional.
 
 *De las competencias de la Región autónoma.*  
 *Son competencias de la Región autónoma:*  
@@ -94,10 +118,14 @@ La Constitución y la ley establecerán las bases de los mecanismos y procedimie
     15. La regulación y administración de los bosques, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias.  
     16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma.  
     17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales.  
+    18. Establecer contribuciones y tasas dentro de su territorio previa autorización por ley.  
+    19. La creación de empresas públicas regionales por parte de los órganos de la Región Autónoma competentes, en conformidad a los procedimientos regulados en la Constitución y la ley.  
     20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.  
     21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia.  
     22. Promover la participación popular en asuntos de interés regional.; y  
-    24.- Las demás competencias que determine la Constitución y ley nacional.
+    24.- Las demás competencias que determine la Constitución y ley nacional.  
+
+El ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia y desarrollo coordinado con otros órganos del Estado, conforme a la Constitución y la ley.
 
 **De las entidades con competencias sobre todo el territorio.**  
 La ley determinará cuáles Servicios Públicos, Instituciones Autónomas o Empresas del Estado, en virtud de sus fines fiscalizadores, o por razones de eficiencia y de interés general, mantendrán una organización centralizada y desconcentrada en todo el territorio de la República.
@@ -107,15 +135,43 @@ El Consejo de Gobernaciones, presidido por el Presidente de la República y conf
 
 Son facultades del Consejo de Gobernaciones:  
     a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones;  
+    b) La coordinación económica y presupuestaria entre el Estado y las Regiones Autónomas.  
+    c) Debatir sobre las actuaciones conjuntas de carácter estratégico, que afecten a los ámbitos competenciales estatal y regional, así como velar por el respeto de las autonomías de las entidades territoriales  
+    d) Velar por la correcta aplicación de los principios de equidad, solidaridad y justicia territorial, y de los mecanismos de compensación económica interterritorial, en conformidad con la Constitución y la ley  
     e) Convocar encuentros sectoriales entre entidades territoriales.  
-    g) Las demás que establezcan la Constitución y la ley;  
+    g) Acordar la creación de comisiones o grupos de trabajo para el estudio de asuntos de interés común.  
+    h) Las demás que establezcan la Constitución y la ley;  
+
+**De los Ministerios y Servicios Públicos con presencia en la Región.**  
+Las Regiones Autónomas contarán con las competencias para coordinarse con las y los representantes de Ministerios y Servicios Públicos con presencia en la Región Autónoma.  
+El Gobierno Regional podrá solicitar al Estado la transferencia de competencias de Ministerios y Servicios Públicos. A su vez, las Municipalidades podrán solicitar al Gobierno Regional la transferencia de competencias. La ley regulará este procedimiento.  
+El ejercicio de estas facultades tiene por objeto garantizar el respeto, protección y realización progresiva de los derechos sociales y económicos en igualdad de condiciones en las distintas entidades territoriales. La ley regulará el ejercicio de estas facultades.  
+El Estado tendrá facultades supletorias de carácter transitorio, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de estas facultades.  
+
+**Atribuciones de la Asamblea Regional.**  
+Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional: 
+
+    1. Fiscalizar los actos del Gobierno Regional de acuerdo con el procedimiento establecido en el Estatuto Regional.  
+    2. Fiscalizar los actos de la administración regional, para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la Región Autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales.  
+    3. Solicitar al Gobernador o Gobernadora Regional rendir cuenta sobre su participación en el Consejo de Gobernaciones.  
+    4. Aprobar, modificar o rechazar el Presupuesto Regional, el Plan de Desarrollo Regional y los Planes de Ordenamiento Territorial.  
+    5. Aprobar, modificar o rechazar el Plan Regional de manejo integrado de cuencas.  
+    6. Dictar su reglamento interno de funcionamiento.  
+    7. Aprobar, a propuesta del Gobernador o Gobernadora Regional y previa ratificación del Consejo Territorial, la creación de empresas públicas regionales o la participación en empresas regionales.  
+    9. Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.  
+    10. Iniciar el trámite legislativo ante el Consejo Territorial en materias de interés regional.  
+    12. Las demás atribuciones que determine la Constitución y la ley.
 
 **De las atribuciones exclusivas del Gobierno Regional.**
 Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
+    2. Preparar y presentar ante la Asamblea Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional.
     3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.  
+    4. Preparar y presentar ante la Asamblea Regional el plan regional de ordenamiento territorial, los planes de desarrollo urbano de las áreas metropolitanas y los planes de manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley.  
     5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región.  
+    6. Ejercer la potestad reglamentaria en todas aquellas materias que se encuentren dentro del ámbito de sus competencias, en conformidad a la Constitución, la ley y el Estatuto Regional.  
     8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma.  
+    9. Proponer a la Asamblea Regional la creación de empresas públicas regionales o la participación en empresas regionales para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, la ley y el Estatuto Regional.  
     12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.  
     13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley.  
     17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma.  
