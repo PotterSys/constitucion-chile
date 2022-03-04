@@ -183,6 +183,10 @@ Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
 
+### Crisis climática
+El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.  
+
+
 **Crisis climática y ecológica.**  
 El Estado reconoce la existencia de la crisis climática y ecológica como consecuencia de la actividad humana. Es deber del Estado desarrollar acciones y adoptar medidas en todos los niveles para la gestión de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica, en función de los principios de acción climática justa, progresividad y no regresión, justicia intergeneracional, los derechos de los pueblos indígenas y la Naturaleza, y los principios establecidos por la Constitución y las Leyes. La ley establecerá los deberes del Estado y de las personas para enfrentar la crisis climática y ecológica. El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.
 
