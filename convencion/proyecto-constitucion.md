@@ -127,6 +127,23 @@ Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
 
+**Crisis climática y ecológica.**  
+El Estado reconoce la existencia de la crisis climática y ecológica como consecuencia de la actividad humana. Es deber del Estado desarrollar acciones y adoptar medidas en todos los niveles para la gestión de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica, en función de los principios de acción climática justa, progresividad y no regresión, justicia intergeneracional, los derechos de los pueblos indígenas y la Naturaleza, y los principios establecidos por la Constitución y las Leyes. La ley establecerá los deberes del Estado y de las personas para enfrentar la crisis climática y ecológica. El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.
+
+**Deberes del Estado con la Naturaleza.**  
+Es deber del Estado garantizar y promover los derechos de la Naturaleza, debiendo realizar todas las medidas necesarias de precaución, reparación, restauración y regeneración cuando exista o haya riesgo de degradación o daño ambiental. La restauración de la naturaleza comprende adoptar las medidas adecuadas para eliminar o mitigar las consecuencias ambientales nocivas de la actividad humana. La ley establecerá las instituciones y normativas necesarias para resguardar estos derechos, asegurar la participación ciudadana y la consulta indígena.
+
+**Derechos de los animales.**  
+El Estado protegerá a los animales, reconociendo su sintiencia, individualidad y derecho a vivir una vida libre de maltrato. La ley establecerá los demás derechos de los animales, un servicio público para su protección y no extinción, una acción para su tutela, el resguardo de su hábitat y la prohibición de prácticas que los sujeten a tratos crueles.
+
+El Estado fomentará una educación basada en la empatía hacia los animales y propenderá, a través de la ley, sus órganos y políticas públicas, al bienestar animal.
+
+**Derecho de participación ambiental.**  
+Se reconoce el derecho de participación vinculante e incidente en la toma de decisiones ambientales. Los mecanismos de participación serán determinados por ley.
+
+**Derecho de acceso a la información ambiental.**  
+Todas las personas tienen derecho a acceder a la información ambiental pública, que conste en poder o custodia del Estado, y de las empresas, instituciones y organismos que presten servicio al Estado. La ley promoverá la generación, recopilación, preservación y difusión de la información ambiental para cumplir con los derechos establecidos en este párrafo.
+
 ## Sistemas de Justicia, Órganos Autónomos de Control y Reforma Constitucional
 
 ### Sistemas de Justicia
@@ -220,3 +237,5 @@ Las obligaciones, condiciones y límites en esta materia serán determinados por
 El Estado reconoce la neuro diversidad y a las personas neuro divergentes, su derecho a una vida plena, al buen vivir, autonomía y autodeterminación durante todo su ciclo vital; a su respecto debe garantizar el acceso todos los derechos reconocidos en esta Constitución y en tratados internacionales ratificados por Chile, asegurando los ajustes necesarios y especializados dirigidos a eliminar las barreras estructurales que impidan su ejercicio pleno. El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones sin discriminación. Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.
 
 La Constitución reconoce el principio de protección de la identidad humana presente y futura, base del respeto de la dignidad personal como principio y valor en sí.
+
+## *Artículos transitorios*
