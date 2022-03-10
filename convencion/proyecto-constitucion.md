@@ -181,6 +181,65 @@ Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
 ## Derechos Fundamentales
 
+**Objeto y fin.**  
+Los derechos fundamentales son universales, inalienables, indivisibles e interdependientes entre sí. Comprenden los derechos de la naturaleza, realidad íntimamente ligada al desarrollo de la vida, de las comunidades, de las naciones y de los pueblos como de las futuras generaciones. La protección, promoción y satisfacción de los derechos humanos es un fin primordial del Estado y de la sociedad.  
+El pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.
+
+**Principio de progresividad y no regresión de los derechos fundamentales.**  
+El Estado debe adoptar todas las medidas necesarias para lograr de manera progresiva la plena satisfacción de los derechos fundamentales. Ninguna medida podrá tener un carácter regresivo que disminuya, menoscabe o impida injustificadamente su ejercicio.
+
+*Libertad personal ambulatoria*
+
+Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.  
+Ninguna persona puede ser arrestado o detenido o privado de libertad sino por orden judicial y después de que ésta le sea intimada por funcionario debidamente identificado, en forma legal, debiendo ser informado, al momento de su detención, de las razones de ésta y de sus derechos, conforme a la ley. Asimismo, tendrá el derecho a comunicarse de inmediato con sus familiares, abogado o persona de su confianza, quienes tienen el derecho a ser informados del lugar donde se encuentra la persona detenida y de los motivos de su detención. Sin embargo, podrá ser detenido quien fuere sorprendido en delito flagrante sólo en los casos establecidos en la ley, debiéndose dar aviso inmediatamente a la autoridad competente y ponérsele a disposición del tribunal competente dentro de las veinticuatro horas siguientes al momento de la detención.  
+Si la autoridad judicial hiciere arrestar o detener a alguna persona, se deberá conducir inmediatamente al arrestado o detenido ante el juez competente.  
+Ninguna persona puede ser arrestado o detenido, sujeto a prisión preventiva o preso o privado de libertad, sino en su domicilio o en los lugares públicos destinados a este objeto. Los encargados de dichos lugares no podrán recibir en ellas a ninguna persona en calidad de arrestado o detenido, imputado o preso, sin dejar constancia del ingreso o de la orden emanada de autoridad competente, en un registro que será público.  
+Toda persona cuya privación de libertad haya sido declarada ilegal o arbitraria por el tribunal será puesta de inmediato en libertad, salvo cuando se formalice la investigación.
+
+**Derecho a la autonomía y a la libre determinación.**  
+Toda persona tiene derecho a la libertad, entendida como la libre determinación de su personalidad, de sus proyectos de vida, de su identidad y la autonomía sobre su cuerpo.  
+El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.
+
+*Derechos sexuales y reproductivos*
+
+Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.  
+El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones.  
+El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.
+
+**Educación sexual integral.**  
+Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.  
+Es deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes.
+
+*Derecho a la vida y a la integridad física y psíquica*
+
+**Derecho a la vida.**  
+Toda persona tiene derecho a la vida. Ninguna persona podrá ser condenada a muerte ni ejecutada.
+
+**Derecho a la integridad personal.**  
+Toda persona tiene derecho a la integridad física, psicosocial, sexual y afectiva. Ninguna persona podrá ser sometida a torturas, ni penas o tratos crueles, inhumanos o degradantes.
+
+**Prohibición de la desaparición forzada.**  
+Ninguna persona será sometida a desaparición forzada.  
+Toda persona víctima de desaparición forzada tiene derecho a ser buscada. El Estado garantizará el ejercicio de este derecho, disponiendo de todos los medios necesarios.
+
+**Imprescriptibilidad y prohibición de la amnistía.**  
+Los crímenes de guerra, los delitos de lesa humanidad, la desaparición forzada y la tortura, el genocidio y el crimen de agresión y otras penas o tratos crueles, inhumanos o degradantes son imprescriptibles, inamnistiables y no serán susceptibles de ningún impedimento a la investigación.
+
+**Deberes de prevención, investigación y sanción.**  
+Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 26. Tales crímenes deberán ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia, imparcialidad y en conformidad con los estándares establecidos en los tratados internacionales ratificados y vigentes en Chile.
+
+*Libertad de asociación*
+
+**Derecho de asociación.**  
+Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.  
+El derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.  
+Para gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.  
+El ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.  
+Los colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.  
+El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.
+
+El Estado reconoce la función social, económica y productiva de las cooperativas, conforme al principio de ayuda mutua, y fomentará su desarrollo. La ley regulará la creación y funcionamiento de las cooperativas, garantizará su autonomía, y preservará, mediante los instrumentos correspondientes, su naturaleza y finalidades. Las cooperativas podrán agruparse en federaciones, confederaciones, o en otras formas de organización que determine la ley.
+
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
 
 ### Crisis climática
