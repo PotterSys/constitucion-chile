@@ -2,6 +2,51 @@
 
 ## Principios Constitucionales, Democracia, Nacionalidad y Ciudadanía
 
+**Estado.**  
+Chile es un Estado social y democrático de derecho. Su carácter es plurinacional e intercultural y ecológico.  
+Es una República democrática, solidaria y paritaria que reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza.  
+Los fines de toda acción estatal son garantizar el bienestar de las personas, de la sociedad y de la naturaleza, construir las condiciones para una vida digna y remover los obstáculos que impidan o dificulten el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo.
+
+**Igualdad Sustantiva.**  
+La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos.  
+La Constitución asegura especialmente la igualdad sustantiva de género, obligándose a garantizar la igualdad de trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil.  
+El Estado deberá garantizar la eliminación de todos los obstáculos que dificulten el cumplimiento de este principio y promover acciones positivas que habiliten su pleno ejercicio, aplicando un enfoque de interseccionalidad y teniendo como base las obligaciones asumidas conforme al derecho internacional de los derechos humanos.
+
+**Naturaleza.**  
+Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable.  
+La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos.  
+El Estado garantiza la conservación, restauración, recuperación progresiva y equilibrio de la naturaleza y sus elementos, promoviendo además su regeneración. Todo ello, mediante la actuación coordinada con los pueblos y sus instituciones, y la sociedad en su conjunto, tomando decisiones basadas en la ciencia y los saberes de los pueblos, los principios preventivo, precautorio, de no regresión, solidaridad intergeneracional y los demás reconocidos por esta Constitución y las leyes.  
+El Estado debe adoptar una administración ecológicamente responsable y promover la educación ambiental y científica mediante procesos de formación y aprendizaje permanentes.  
+Chile y sus pueblos tienen la obligación de tomar las medidas necesarias para combatir la emergencia climática y ecológica, mediante la transformación de sistemas productivos, la transición justa e inclusiva, la restauración de los equilibrios ecosistémicos y las acciones de mitigación y adaptación a partir de un enfoque de equidad y solidaridad entre territorios, comunidades y generaciones.  
+Chile tiene la obligación de cooperar con otros estados, organizaciones internacionales y otras entidades, para la protección de la Naturaleza y enfrentar la crisis climática y ecológica, cumpliendo los estándares internacionales emanados de los órganos a los cuales Chile les reconoce competencia.
+
+Chile es un país oceánico. Es deber integral del Estado la conservación, preservación y cuidado de los ecosistemas marinos y costeros continentales, insulares y antárticos.
+
+**Interculturalidad.**  
+El Estado es intercultural. Reconocerá, valorará y promoverá el diálogo horizontal y transversal entre las diversas cosmovisiones de los pueblos y naciones que conviven en el país con dignidad y respeto recíproco. El Estado deberá garantizar los mecanismos institucionales que permitan ese diálogo superando las asimetrías existentes en el acceso, distribución y ejercicio del poder y en todos los ámbitos de la vida en sociedad.
+
+**Plurilingüismo.**  
+Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus autonomías territoriales. El Estado garantizará el conocimiento, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional.  
+El Estado reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas así como sus derechos lingüísticos en todos los ámbitos de la vida social.
+
+**Probidad y Transparencia.**  
+El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular.  
+Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley.  
+Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos.  
+La Constitución asegura a todas las personas la transparencia de la información pública en poder del Estado y de sus procesos deliberativos, decisionales, de participación y administrativos, facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que se podrá establecer la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.  
+Las normas sobre transparencia activa se aplicarán a aquellas instituciones privadas que reciban fondos o subvenciones del Estado, quienes, además, deberán rendir públicamente cuenta de los gastos que efectúen con dichas asignaciones, en la forma que determine la ley.  
+Corresponderá a ley regular el principio de transparencia de la función pública, los procedimientos para el ejercicio de ese derecho y su amparo, así como el órgano que deberá promover la transparencia de la función pública, fiscalizar el cumplimiento de las normas sobre transparencia ypublicidad de la información pública de los órganos de la administración del Estado, poderes del Estado y organismos autónomos regulados en la Constitución, además de garantizar el derecho de acceso a la información antes señalada.
+
+**Supremacía Constitucional y Legal.**  
+Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo.  
+Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos.  
+Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes, ni aún a pretexto de circunstancias extraordinarias, sean estas de la naturaleza, políticas o sociales. En aquellas normas se determinarán las responsabilidades y sanciones por la contravención a este artículo.
+
+**Emblemas Nacionales.**  
+Son emblemas representativos de Chile la bandera, el escudo y el himno nacional.  
+El Estado reconoce los símbolos y emblemas plurinacionales propios de los distintos pueblos indígenas y tribales.
+
+
 ## Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
 
 **Del Estado Regional.**  
@@ -162,10 +207,10 @@ Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la 
     10. Iniciar el trámite legislativo ante el Consejo Territorial en materias de interés regional.  
     12. Las demás atribuciones que determine la Constitución y la ley.
 
-**De las atribuciones exclusivas del Gobierno Regional.**
+**De las atribuciones exclusivas del Gobierno Regional.**  
 Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
-    2. Preparar y presentar ante la Asamblea Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional.
+    2. Preparar y presentar ante la Asamblea Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional.  
     3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.  
     4. Preparar y presentar ante la Asamblea Regional el plan regional de ordenamiento territorial, los planes de desarrollo urbano de las áreas metropolitanas y los planes de manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley.  
     5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región.  
