@@ -233,29 +233,27 @@ El pleno ejercicio de estos derechos es condición necesaria para asegurar la pa
 **Principio de progresividad y no regresión de los derechos fundamentales.**  
 El Estado debe adoptar todas las medidas necesarias para lograr de manera progresiva la plena satisfacción de los derechos fundamentales. Ninguna medida podrá tener un carácter regresivo que disminuya, menoscabe o impida injustificadamente su ejercicio.
 
-*Libertad personal ambulatoria*
+**Libertad personal ambulatoria**
 
 Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.  
-Ninguna persona puede ser arrestado o detenido o privado de libertad sino por orden judicial y después de que ésta le sea intimada por funcionario debidamente identificado, en forma legal, debiendo ser informado, al momento de su detención, de las razones de ésta y de sus derechos, conforme a la ley. Asimismo, tendrá el derecho a comunicarse de inmediato con sus familiares, abogado o persona de su confianza, quienes tienen el derecho a ser informados del lugar donde se encuentra la persona detenida y de los motivos de su detención. Sin embargo, podrá ser detenido quien fuere sorprendido en delito flagrante sólo en los casos establecidos en la ley, debiéndose dar aviso inmediatamente a la autoridad competente y ponérsele a disposición del tribunal competente dentro de las veinticuatro horas siguientes al momento de la detención.  
-Si la autoridad judicial hiciere arrestar o detener a alguna persona, se deberá conducir inmediatamente al arrestado o detenido ante el juez competente.  
-Ninguna persona puede ser arrestado o detenido, sujeto a prisión preventiva o preso o privado de libertad, sino en su domicilio o en los lugares públicos destinados a este objeto. Los encargados de dichos lugares no podrán recibir en ellas a ninguna persona en calidad de arrestado o detenido, imputado o preso, sin dejar constancia del ingreso o de la orden emanada de autoridad competente, en un registro que será público.  
-Toda persona cuya privación de libertad haya sido declarada ilegal o arbitraria por el tribunal será puesta de inmediato en libertad, salvo cuando se formalice la investigación.
 
 **Derecho a la autonomía y a la libre determinación.**  
 Toda persona tiene derecho a la libertad, entendida como la libre determinación de su personalidad, de sus proyectos de vida, de su identidad y la autonomía sobre su cuerpo.  
-El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.
+El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.  
+Se prohíbe la esclavitud, el trabajo forzado, la servidumbre y la trata de personas en cualquiera de sus formas. El Estado adoptará las medidas de prevención, sanción y erradicación de la esclavitud, el trabajo forzado, la servidumbre y la trata de personas, y de protección, plena restauración de derechos, remediación y reinserción social de las víctimas.
 
-*Derechos sexuales y reproductivos*
+
+**Derechos sexuales y reproductivos**
 
 Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.  
 El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones.  
 El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.
 
 **Educación sexual integral.**  
-Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.  
+Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.  
 Es deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes.
 
-*Derecho a la vida y a la integridad física y psíquica*
+**Derecho a la vida y a la integridad física y psíquica.**
 
 **Derecho a la vida.**  
 Toda persona tiene derecho a la vida. Ninguna persona podrá ser condenada a muerte ni ejecutada.
@@ -273,7 +271,8 @@ Los crímenes de guerra, los delitos de lesa humanidad, la desaparición forzada
 **Deberes de prevención, investigación y sanción.**  
 Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 26. Tales crímenes deberán ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia, imparcialidad y en conformidad con los estándares establecidos en los tratados internacionales ratificados y vigentes en Chile.
 
-*Libertad de asociación*
+
+**Libertad de asociación**
 
 **Derecho de asociación.**  
 Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.  
@@ -284,6 +283,10 @@ Los colectivos y organizaciones sociales que se dedican a la protección del eje
 El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.
 
 El Estado reconoce la función social, económica y productiva de las cooperativas, conforme al principio de ayuda mutua, y fomentará su desarrollo. La ley regulará la creación y funcionamiento de las cooperativas, garantizará su autonomía, y preservará, mediante los instrumentos correspondientes, su naturaleza y finalidades. Las cooperativas podrán agruparse en federaciones, confederaciones, o en otras formas de organización que determine la ley.
+
+**Derechos de las personas chilenas residentes en el extranjero**
+
+Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales, parlamentarias, plebiscitos y consultas, de conformidad a esta Constitución y las leyes.
 
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
 
