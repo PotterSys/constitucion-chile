@@ -9,16 +9,11 @@ Los fines de toda acción estatal son garantizar el bienestar de las personas, d
 
 **Igualdad Sustantiva.**  
 La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos.  
-La Constitución asegura especialmente la igualdad sustantiva de género, obligándose a garantizar la igualdad de trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil.  
-El Estado deberá garantizar la eliminación de todos los obstáculos que dificulten el cumplimiento de este principio y promover acciones positivas que habiliten su pleno ejercicio, aplicando un enfoque de interseccionalidad y teniendo como base las obligaciones asumidas conforme al derecho internacional de los derechos humanos.
 
 **Naturaleza.**  
 Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable.  
 La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos.  
-El Estado garantiza la conservación, restauración, recuperación progresiva y equilibrio de la naturaleza y sus elementos, promoviendo además su regeneración. Todo ello, mediante la actuación coordinada con los pueblos y sus instituciones, y la sociedad en su conjunto, tomando decisiones basadas en la ciencia y los saberes de los pueblos, los principios preventivo, precautorio, de no regresión, solidaridad intergeneracional y los demás reconocidos por esta Constitución y las leyes.  
 El Estado debe adoptar una administración ecológicamente responsable y promover la educación ambiental y científica mediante procesos de formación y aprendizaje permanentes.  
-Chile y sus pueblos tienen la obligación de tomar las medidas necesarias para combatir la emergencia climática y ecológica, mediante la transformación de sistemas productivos, la transición justa e inclusiva, la restauración de los equilibrios ecosistémicos y las acciones de mitigación y adaptación a partir de un enfoque de equidad y solidaridad entre territorios, comunidades y generaciones.  
-Chile tiene la obligación de cooperar con otros estados, organizaciones internacionales y otras entidades, para la protección de la Naturaleza y enfrentar la crisis climática y ecológica, cumpliendo los estándares internacionales emanados de los órganos a los cuales Chile les reconoce competencia.
 
 Chile es un país oceánico. Es deber integral del Estado la conservación, preservación y cuidado de los ecosistemas marinos y costeros continentales, insulares y antárticos.
 
@@ -33,14 +28,11 @@ El Estado reconoce la lengua de señas chilena como lengua natural y oficial de 
 El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular.  
 Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley.  
 Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos.  
-La Constitución asegura a todas las personas la transparencia de la información pública en poder del Estado y de sus procesos deliberativos, decisionales, de participación y administrativos, facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que se podrá establecer la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.  
-Las normas sobre transparencia activa se aplicarán a aquellas instituciones privadas que reciban fondos o subvenciones del Estado, quienes, además, deberán rendir públicamente cuenta de los gastos que efectúen con dichas asignaciones, en la forma que determine la ley.  
-Corresponderá a ley regular el principio de transparencia de la función pública, los procedimientos para el ejercicio de ese derecho y su amparo, así como el órgano que deberá promover la transparencia de la función pública, fiscalizar el cumplimiento de las normas sobre transparencia ypublicidad de la información pública de los órganos de la administración del Estado, poderes del Estado y organismos autónomos regulados en la Constitución, además de garantizar el derecho de acceso a la información antes señalada.
 
 **Supremacía Constitucional y Legal.**  
 Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo.  
 Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos.  
-Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes, ni aún a pretexto de circunstancias extraordinarias, sean estas de la naturaleza, políticas o sociales. En aquellas normas se determinarán las responsabilidades y sanciones por la contravención a este artículo.
+
 
 **Emblemas Nacionales.**  
 Son emblemas representativos de Chile la bandera, el escudo y el himno nacional.  
@@ -379,9 +371,33 @@ Sólo la ley podrá determinar los requisitos y efectos de los mecanismos altern
 
 ## Sistemas de Conocimientos, Culturas, Ciencia, Tecnología, Artes y Patrimonios
 
-El Estado tiene el deber de respetar la libertad de prensa, velar por el pluralismo de los medios de comunicación y por la diversidad de opiniones, siendo esto consustancial a la democracia y su fortalecimiento. Se prohíbe la censura previa.
+**Derecho a la comunicación social.**  
+Toda persona, individual o colectivamente, tiene derecho a producir información y a participar equitativamente en la comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e información.
+
+El Estado debe respetar la libertad de prensa, promover el pluralismo de los medios de comunicación y la diversidad de información. Se prohíbe la censura previa.
+
+**Concentración de la propiedad de medios.**  
+El Estado impedirá la concentración de la propiedad de los medios de comunicación e información. En ningún caso se podrá establecer el monopolio estatal sobre ellos. Corresponderá a la ley el resguardo de este precepto.
+
+**Promoción de medios de comunicación e información.**  
+El Estado fomenta la creación de medios de comunicación e información y su desarrollo a nivel regional, local y comunitario.  
 
 Toda persona ofendida o injustamente aludida por un medio de comunicación e información tiene derecho a que su aclaración o rectificación sea difundida gratuitamente por el mismo medio en que hubiese sido emitida. La ley regulará el ejercicio de este derecho, con pleno respeto a la libertad de expresión.
+
+**Derechos culturales.**  
+
+La Constitución asegura a todas las personas y comunidades:
+
+    1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.  
+    2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.  
+    3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.  
+    4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.  
+    5°. La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.  
+    Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.  
+
+**Identidad e integridad cultural.** 
+Los pueblos y naciones indígenas preexistentes y sus integrantes tienen derecho a la identidad e integridad cultural, y a que se reconozcan y respeten sus formas de vida, de transmisión del conocimiento, sus cosmovisiones, el vínculo con la tierra, el mar y el territorio, sus usos, costumbres, tradiciones e instituciones propias y su lengua, los cuales se desarrollan en procesos de interrelación.  
+A su vez, el pueblo tribal afrodescendiente chileno tiene derechoa desarrollar su cultura, su identidad e instituciones propias, garantizando el Estado el ejercicio de este derecho.
 
 El Estado promueve, fomenta y garantiza el acceso, desarrollo y difusión de las culturas, las artes y los conocimientos, atendiendo a la diversidad cultural en todas sus manifestaciones y contribuciones, bajo los principios de colaboración e interculturalidad. El Estado debe generar las instancias para que la sociedad contribuya al desarrollo de la creatividad cultural y artística, en sus más diversas expresiones. El Estado promueve las condiciones para el libre desarrollo de la identidad cultural de las comunidades y personas, así como de sus procesos culturales. Esto se realizará con pleno respeto a los derechos, libertades y las autonomías que consagra esta Constitución.
 
@@ -391,7 +407,8 @@ El Estado velará por remover los obstáculos que impidan o dificulten el acceso
 
 Todas las personas, individual y colectivamente, tienen derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación, con pleno respeto de los derechos y garantías que establecen esta Constitución y las leyes.
 
-El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras”. El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida. La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.
+El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras.  
+Es deber del Estado promover y participar del desarrollo de las telecomunicaciones, servicios de conectividad y tecnologías de la información y comunicación. La ley regulará la forma en que el Estado cumplirá este deber, así como su participación y la de otros actores en la materia.
 
 El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.
 
@@ -399,10 +416,20 @@ El Estado garantiza el acceso libre, equitativo y descentralizado, con condicion
 
 Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto.
 
+Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promoción, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.  
 Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.
 
-El Estado reconoce la neuro diversidad y a las personas neuro divergentes, su derecho a una vida plena, al buen vivir, autonomía y autodeterminación durante todo su ciclo vital; a su respecto debe garantizar el acceso todos los derechos reconocidos en esta Constitución y en tratados internacionales ratificados por Chile, asegurando los ajustes necesarios y especializados dirigidos a eliminar las barreras estructurales que impidan su ejercicio pleno. El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones sin discriminación. Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.
+**Derecho al ocio.**  
+Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre.
+
+**Derecho al cuerpo.**  
+Todas las personas tienen el derecho a desarrollar y disfrutar de su corporeidad, así como a una muerte, rito y sepultura digna, de acuerdo a su cosmovisión, cultura y creencias.
+
+El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos, individuales y colectivos, reconocidos en esta Constitución y los tratados e instrumentos internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.
 
 La Constitución reconoce el principio de protección de la identidad humana presente y futura, base del respeto de la dignidad personal como principio y valor en sí.
+
+**Principios de la Bioética.**  
+Las ciencias y tecnologías deben desarrollarse bajo los principios de solidaridad, cooperación, precautorio, de responsabilidad y con pleno respeto a la dignidad humana, los derechos de la naturaleza y los derechos fundamentales consagrado en esta Constitución y las leyes.
 
 ## *Artículos transitorios*
