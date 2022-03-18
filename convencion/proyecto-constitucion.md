@@ -305,69 +305,183 @@ Todas las personas tienen derecho a acceder a la información ambiental pública
 
 ## Sistemas de Justicia, Órganos Autónomos de Control y Reforma Constitucional
 
-### Sistemas de Justicia
+### De los Tribunales del Sistema Nacional de Justicia
 
-**La función jurisdiccional.**  
-La jurisdicción es una función pública que se ejerce en nombre de los pueblos y que consiste en conocer y juzgar, por medio de un debido proceso los conflictos de relevancia jurídica y hacer ejecutar lo resuelto, de conformidad a la Constitución y las leyes, así como los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. Se ejerce exclusivamente por los tribunales de justicia y las autoridades de los pueblos indígenas reconocidos por la Constitución o las leyes dictadas conforme a ella. Al ejercer la jurisdicción se debe velar por la tutela y promoción de los derechos humanos y de la naturaleza, del sistema democrático y el principio de juridicidad.
+### De los Tribunales del Sistema Nacional de Justicia
 
-**Pluralismo jurídico.**  
-El Estado reconoce los sistemas jurídicos de los Pueblos Indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia. Estos deberán respetar los derechos fundamentales que establece esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. La ley determinará los mecanismos de coordinación, cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.
+**Principio de unidad jurisdiccional.**  
+Los tribunales de justicia se estructuran conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento, estando sujetos al mismo estatuto jurídico y principios.
 
-**Independencia jurisdiccional, imparcialidad y exclusividad.**  
-Las juezas y jueces que ejercen jurisdicción son independientes entre sí y de todo otro poder o autoridad, debiendo actuar y resolver de forma imparcial. En sus providencias, sólo están sometidos al imperio de la ley.  
-La función jurisdiccional la ejercen exclusivamente los tribunales establecidos por ley. Ningún otro órgano del Estado, persona o grupo de personas, podrán ejercer la función jurisdiccional, conocer causas pendientes, modificar los fundamentos o el contenido de las resoluciones judiciales o reabrir procesos concluidos.  
-Las juezas y jueces no podrán desempeñar ninguna otra función o empleo, salvo actividades académicas en los términos que establezca la ley.  
-Las juezas y jueces sólo ejercerán la función jurisdiccional, no pudiendo desempeñar función administrativa ni legislativa alguna.  
-Las juezas y jueces no podrán militar en partidos políticos.
+**Diferenciación funcional y estatuto común de los tribunales.**  
+Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.  
+Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares.  
+La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.
 
-**De la inamovilidad.**  
-Las juezas y jueces son inamovibles. No pueden ser suspendidos, trasladados o removidos sino conforme a las causales y procedimientos establecidos por la Constitución y las leyes.
+**Cesación de juezas y jueces.**  
+Las juezas y jueces cesan en sus cargos por alcanzar los setenta años de edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por remoción.
 
-#### Principios generales
+**Fuero.**  
+Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones correspondiente no declara admisible uno o más capítulos de la acusación respectiva. La resolución que se pronuncie sobre la querella de capítulos será apelable para ante la Corte Suprema. Encontrándose firme la resolución que acoge la querella, el procedimiento penal continuará de acuerdo a las reglas generales y la jueza o el juez quedará suspendido del ejercicio de sus funciones.
 
-**Derecho de acceso a la justicia.**  
-La Constitución garantiza el pleno acceso a la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos sociales, culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos jurisdiccionales para la tutela y el ejercicio de sus derechos.  
-Los tribunales deben brindar una atención adecuada a quienes presenten peticiones o consultas ante ellos, otorgando siempre un trato digno y respetuoso. Una ley establecerá sus derechos y deberes.
+**Autonomía financiera.**  
+El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos del Estado los fondos necesarios para su adecuado funcionamiento.
 
-**Tutela jurisdiccional efectiva.**  
-Todas las personas tienen derecho a requerir de los tribunales de justicia la tutela efectiva de sus derechos e intereses legítimos, de manera oportuna y eficaz conforme a los principios y estándares reconocidos en la Constitución y las leyes.
+**Publicidad.**  
+Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.
 
-**Inexcusabilidad e indelegabilidad.**  
-Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales no podrán excusarse de ejercer su función en un tiempo razonable ni aún a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión. El ejercicio de la jurisdicción es indelegable.
+**Principio de proximidad e itinerancia.**  
+Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional
 
-**Ejecución de las resoluciones.**  
-Para hacer ejecutar las resoluciones y practicar o hacer practicar las actuaciones que determine la ley, los tribunales de justicia podrán impartir órdenes o instrucciones directas a la fuerza pública, debiendo cumplir lo mandatado de forma rápida y expedita, sin poder calificar su fundamento, oportunidad o legalidad. Las sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos, cuya jurisdicción ha sido reconocida por éste, serán cumplidas por los tribunales de justicia conforme al procedimiento establecido por la ley, aun si contraviniere una sentencia firme pronunciada por estos.
+**De los tribunales.**  
+El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema.  
+Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.
 
-**Fundamentación y lenguaje claro.**  
-Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. La ley podrá establecer excepciones al deber de fundamentación de las resoluciones judiciales.
+**Acceso a la justicia intercultural.**  
+Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural.  
+En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.
 
-**Gratuidad.**  
-El acceso a la función jurisdiccional será gratuito, sin perjuicio de las actuaciones judiciales y sanciones procesales establecidas por la ley.  
-La justicia arbitral será siempre voluntaria. La ley no podrá establecer arbitrajes forzosos.
+**Tutela efectiva de los derechos de los pueblos y naciones indígenas.**  
+Las personas pertenecientes a pueblos y naciones indígenas tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados, con pleno respeto a sus prácticas, sistemas jurídicos propios y los derechos garantizados en esta Constitución y el Derecho Internacional de los Derechos Humanos.
 
-**Principio de responsabilidad jurisdiccional.**  
-Las juezas y jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, y, en general, por toda prevaricación, denegación o torcida administración de justicia. La ley determinará los casos y el modo de hacer efectiva esta responsabilidad.  
-Los perjuicios por error judicial otorgarán el derecho a una indemnización por el Estado, conforme al procedimiento establecido en la Constitución y las leyes.
+**De la Corte Suprema.**  
+La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley.  
+Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización.  
+Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema.  
+Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley.  
+La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas
 
-*Publicidad, Probidad y Transparencia*  
-En los procesos en que intervengan niñas, niños y adolescentes, se deberá procurar el resguardo de su identidad.  
-Los principios de probidad y de transparencia serán aplicables a todas las personas que ejercen jurisdicción en el país. La ley establecerá las responsabilidades correspondientes en caso de infracción a esta disposición.
+**De las Cortes de Apelaciones.**  
+Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley.  
+Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización.  
+Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley.  
+La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.
 
-**Principio de Justicia Abierta.**  
-La función jurisdiccional se basa en los principios rectores de la Justicia Abierta, que se manifiesta en la transparencia, participación y colaboración, con el fin de garantizar el Estado de Derecho, promover la paz social y fortalecer la democracia.
+**De los Tribunales de Instancia.**  
+Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley.  
+La competencia de estos tribunales y el número de juezas o jueces que los integrarán serán determinados por la ley.
 
-**Paridad y perspectiva de género.**  
-La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva.  
-El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia respeten el principio de paridad en todos los órganos de la jurisdicción, incluyendo la designación de las presidencias.  
-Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.
+**Tribunales administrativos.**  
+Los Tribunales Administrativos conocen y resuelven las acciones dirigidas en contra de la Administración del Estado o promovidas por ésta y de las demás materias que establezca la ley.  
+Habrá al menos un Tribunal Administrativo en cada región del país, los que podrán funcionar en salas especializadas.  
+Los asuntos de competencia de estos tribunales no podrán ser sometidos a arbitraje.  
+La ley establecerá un procedimiento unificado, simple y expedito para conocer y resolver tales asuntos.
 
-**Plurinacionalidad, pluralismo jurídico e interculturalidad.**  
-La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.  
-Cuando se trate de personas indígenas, los tribunales y sus funcionarios deberán adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, tomando debidamente en consideración las costumbres, tradiciones, protocolos y los sistemas normativos de los pueblos indígenas, conforme a los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.
+### Sistema penitenciario
 
-**Mecanismos Colaborativos de Resolución de Conflictos.**  
-Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo.  
-Sólo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.
+**Establecimientos penitenciarios.**  
+Sólo el Estado puede ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines.  
+La función establecida en este 
+
+
+no podrá ser ejercida por privados.  
+Para la inserción, integración y reparación de las personas privadas de libertad, los establecimientos penitenciarios deben contar con espacios para el estudio, trabajo, deporte, las artes y culturas.  
+En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto en el régimen de control cerrado, abierto y post penitenciario.
+
+**Principios y deberes.**  
+El sistema de cumplimiento de las sanciones penales y de las medidas de seguridad se organizará sobre la base del respeto a los derechos humanos y tendrá como objetivos el cumplimiento de la pena y la integración e inserción social de la persona que cumpla una condena judicial.  
+Es deber del Estado, en su especial posición de garante frente a las personas privadas de libertad, velar por la protección y ejercicio efectivo de sus derechos fundamentales consagrados en esta Constitución y en los tratados e instrumentos internacionales sobre derechos humanos.
+
+**Tribunales de ejecución de penas.**  
+Habrá tribunales de ejecución de penas que velarán por los derechos fundamentales de las personas condenadas o sujetas a medidas de seguridad, conforme a lo reconocido en esta Constitución y los tratados e instrumentos internacionales de derechos humanos, procurando su integración e inserción social.  
+Ejercerán funciones jurisdiccionales en materia de ejecución de penas y medidas de seguridad, control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias, protección de los derechos y beneficios de los internos en los establecimientos penitenciarios y demás que señale la ley.  
+En aquellos casos que se impongan sanciones a personas indígenas, se deberá tener en cuenta sus características económicas, sociales y culturales, y dar preferencia a tipos de sanción distintos del encarcelamiento.
+
+### Justicia Vecinal
+
+**De la justicia vecinal y los juzgados vecinales.**  
+La justicia vecinal se compone por los juzgados vecinales y los centros de justicia vecinal.  
+En cada comuna del país que sea asiento de una municipalidad habrá, a lo menos, un juzgado vecinal que ejerce la función jurisdiccional respecto de todas aquellas controversias jurídicas que se susciten a nivel comunal que no sean competencia de otro tribunal y de los demás asuntos que la ley les encomiende, conforme a un procedimiento breve, oral, simple y expedito.
+
+**Centros de justicia vecinal.**  
+Los centros de justicia vecinal son órganos encargados de promover la solución de conflictos vecinales y de pequeña cuantía dentro de una comunidad determinada por ley, en base al diálogo social, la paz y la participación de las partes involucradas, debiendo priorizar su instalación en zonas rurales y lugares alejados de áreas urbanas.  
+Los centros de justicia vecinal deberán orientar e informar al público en materias jurídicas, haciendo las derivaciones que fuesen necesarias, así como ejercer las demás funciones que la ley les encomiende.  
+La organización, atribuciones, materias y procedimientos que correspondan a los centros de justicia vecinal se regirán por la ley respectiva.
+
+### Justicia Feminista
+
+El Sistema de Justicia deberá adoptar todas las medidas para prevenir, sancionar y erradicar la violencia contra mujeres, disidencias y diversidades sexo genéricas, en todas sus manifestaciones y ámbitos.  
+El Consejo de la Justicia deberá asegurar la formación inicial y capacitación constante de la totalidad de funcionarias y funcionarios y auxiliares de la administración de justicia, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género, el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia.  
+Se promoverá la creación de salas especializadas para conocer las causas de acoso, discriminación y otras formas de violencia contra mujeres, disidencias y diversidades sexo genéricas, en coordinación con los organismos e instituciones necesarias para otorgar una respuesta estatal adecuada, oportuna e integral.  
+Todos los órganos auxiliares de justicia que intervengan en las salas especializadas, deben tener formación en la materia.
+
+**Perspectiva de género y paridad.**  
+La función jurisdiccional debe ejercerse con perspectiva de género y bajo un enfoque interseccional, debiendo sus agentes garantizar la igualdad sustantiva de género y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia.  
+Este mandato es extensivo a toda persona u órgano jurisdiccional, órganos auxiliares y funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.  
+El principio de paridad de género orientará la estructura, organización y puesta en práctica de la función jurisdiccional. El Consejo de la Justicia garantizará que los nombramientos de los órganos del Sistema Nacional de Justicia respeten este principio en todos los escalafones, incluyendo la designación de las presidencias que se sujetarán, a lo menos, al criterio de alternancia de género. Para un adecuado cumplimiento de este mandato el Consejo de la Justicia implementará medidas de acción afirmativa.
+
+**Reparación integral.**  
+El Estado generará mecanismos adecuados y procesos restaurativos, en colaboración y co-gestión con organizaciones sociales y comunitarias sin fines de lucro, que posibiliten la reparación integral de las víctimas.  
+Los procesos restaurativos permitirán a las víctimas, cuando ellas lo consideren necesario y justo, optar por instancias alternativas a las judiciales que se adecuen a sus necesidades.
+
+### Sistemas jurídicos indígenas
+
+**De los sistemas jurídicos de los pueblos y naciones indígenas.**
+Los pueblos y naciones indígenas tienen derecho a conservar, fortalecer y desarrollar sus sistemas jurídicos, que comprenden sus autoridades, instituciones, derecho propio y funciones jurisdiccionales, con pleno respeto a los derechos humanos y de la naturaleza interpretados con enfoque intercultural.  
+Es deber del Estado respetar, garantizar y promover los sistemas jurídicos indígenas
+
+**Coordinación y cooperación.**
+El Estado, con consentimiento de los pueblos, establecerá los mecanismos de coordinación entre las jurisdicciones indígenas y las entidades estatales; las distintas formas de cooperación; los requisitos, procedimientos y efectos de la acción de competencia y del recurso de revisión, el auxilio de la fuerza pública para la ejecución de las decisiones de la jurisdicción indígena y las demás materias necesarias para su implementación.  
+Las partes siempre podrán ejercer una acción de competencia cuando consideren que su caso debe ser conocido por una sede jurisdiccional distinta.  
+El derecho de las personas para optar por un sistema de justicia indígena propio o por el sistema nacional de justicia se determinará conforme a las reglas que establezca la ley.
+
+**Del recurso de revisión de los actos de la jurisdicción indígena.**
+Las decisiones de la jurisdicción indígena sólo serán revisables por el tribunal de integración plurinacional que establezca la ley, a través de un recurso de revisión por vulneración de derechos humanos consagrados en la Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los cuales Chile es parte.  
+De constatarse la vulneración, el tribunal dictará una sentencia que reemplace la decisión en base a una perspectiva intercultural con el fin de maximizar la protección de derechos individuales y colectivos.
+
+### Consejo de la Justicia
+
+**Consejo de la Justicia.**
+El Consejo de la Justicia es un órgano autónomo, técnico, paritario y plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad es fortalecer la independencia judicial. Está encargado del nombramiento, gobierno, gestión, formación y disciplina en el Sistema Nacional de Justicia.  
+En el ejercicio de sus atribuciones debe considerar el principio de no discriminación, la inclusión, paridad de género, equidad territorial y plurinacionalidad.
+
+**Atribuciones del Consejo de la Justicia.**
+Son atribuciones del Consejo de la Justicia:
+  
+    a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
+    b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley,  
+    c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley.  
+    d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
+    e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.  
+    f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.  
+    g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.  
+    h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.  
+    i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.  
+    j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local.  
+    k) Las demás que encomiende esta Constitución y las leyes.
+
+**Composición del Consejo de la Justicia.**
+El Consejo de la Justicia se compone por diecisiete integrantes elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial, conforme a la siguiente integración:
+  
+    a) Seis integrantes serán juezas o jueces titulares elegidos por sus pares.  
+    b) Tres integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.  
+    c) Dos integrantes elegidos por los pueblos originarios.  
+    d) Seis integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública.
+
+Las y los integrantes del Consejo de la Justicia señalados en las letras d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. En los demás casos los integrantes deberán contar con las competencias necesarias para el ejercicio del cargo.  
+Las y los integrantes del Consejo de la Justicia durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.
+
+**Funcionamiento del Consejo de la Justicia.**
+El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución.  
+El Consejo se organizará descentralizadamente, desplegándose a través de administradores zonales.  
+La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.
+
+**Inhabilidades e incompatibilidades.** 
+Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo.  
+Las y los consejeros indicados en las letras a) y b) del artículo sobre Composición del Consejo de la Justicia se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.
+
+**Sobre las causales de cesación de quienes integran el Consejo de la Justicia.**
+Las y los integrantes del Consejo cesarán en su cargo al término de su período, por cumplir setenta años de edad, por remoción, renuncia, incapacidad física o mental sobreviniente o condena por delito que merezca pena aflictiva.  
+Tanto la renuncia como la incapacidad sobreviniente deberá ser aceptada por el Consejo.  
+El proceso de remoción será determinado por la ley, respetando todas las garantías de un debido proceso.
+
+**De los nombramientos judiciales.**
+El Consejo efectuará los nombramientos mediante concursos públicos regulados por la ley, los que incluirán audiencias públicas.  
+Para acceder a un cargo de juez o jueza dentro del Sistema Nacional de Justicia se requerirá haber aprobado el curso de habilitación de la Academia Judicial para el ejercicio de la función jurisdiccional, contar con tres años de ejercicio de la profesión de abogado o abogada para el caso de tribunales de instancia, cinco años para el caso de las Cortes de Apelaciones y veinte años para el caso de la Corte Suprema y los demás requisitos que establezca la Constitución y la ley.
+
+**Potestad disciplinaria.**
+Los procedimientos disciplinarios serán conocidos y resueltos por una comisión compuesta por cinco integrantes del Consejo elegidos por sorteo, decisión que será revisable por su Pleno a petición del afectado.  
+La resolución del Consejo que ponga término al procedimiento será impugnable ante el órgano que establezca la Constitución.  
+Las decisiones adoptadas conforme a los incisos anteriores, no podrán ser revisadas ni impugnadas ante otros órganos del Sistema Nacional de Justicia.
 
 ## Sistemas de Conocimientos, Culturas, Ciencia, Tecnología, Artes y Patrimonios
 
@@ -433,3 +547,33 @@ La Constitución reconoce el principio de protección de la identidad humana pre
 Las ciencias y tecnologías deben desarrollarse bajo los principios de solidaridad, cooperación, precautorio, de responsabilidad y con pleno respeto a la dignidad humana, los derechos de la naturaleza y los derechos fundamentales consagrado en esta Constitución y las leyes.
 
 ## *Artículos transitorios*
+
+### Sistemas de Justicia
+
+*Primera.-*  
+La regla sobre cese en el cargo de jueces y juezas por alcanzar los setenta años de edad, contenida en el artículo *Cesación de juezas y jueces*, comenzará a aplicarse transcurridos diez años desde la entrada en vigencia de la presente Constitución. En el intertanto, la regla sobre cese en el cargo de jueza o juez se mantendrá en setenta y cinco años de edad.
+
+*Segunda.-*  
+El cese de funciones a los 70 años de edad no será aplicable a las personas que a la fecha de entrada en vigencia de esta Constitución formen parte del escalafón primario del Poder Judicial, regulado en el Código Orgánico de Tribunales, quienes cesarán en sus funciones al cumplir los 75 años de edad.
+
+*Tercera.-*  
+El personal que se desempeñare en cualesquiera de los tribunales del Sistema nacional de Justicia, a la fecha de la entrada en vigencia de esta Constitución, en calidad jurídica de contrata con más de cinco años de renovaciones consecutivas, deberá ser traspasado a personal de planta, conforme a los mecanismos que establezca la ley, la cual deberá dictarse en el plazo de dos años, desde la entrada en vigencia de la presente Constitución.
+
+*Cuarta.-*  
+Dentro del plazo de dos años desde la entrada en vigencia de esta Constitución, una ley fusionará los Tribunales Tributarios y Aduaneros, Juzgado de Cuentas de la Contraloría General de la República, Tribunal de Contratación Pública y Tribunal de Propiedad Industrial en los tribunales administrativos.  
+En el mismo plazo señalado en el inciso primero de este artículo deberá dictarse una Ley General de Proceso Administrativo, unificando los procedimientos existentes e instancias de resolución alternativa de conflictos. Del mismo modo, dicha ley deberá integrar las materias actualmente susceptibles de arbitraje y cualquier otra materia que pueda ser asignada a estos tribunales.  
+La ley podrá establecer mecanismos transparentes, con criterios técnicos y de mérito profesional, para que las y los jueces y personal de los Tribunales fusionados puedan optar a cargos equivalentes en los tribunales administrativos o sean traspasados a éstos, en su caso.
+
+*Quinta.-*  
+Mientras no se dicte la ley que contemple el procedimiento general señalado en el artículo sobre lo contencioso administrativo, y siempre que no exista un procedimiento especial, podrá reclamarse jurisdiccionalmente la nulidad de un acto administrativo, así como la declaración de ilegalidad de una omisión, ante el juez de letras en lo civil del domicilio de la autoridad reclamada.  
+El plazo de esta reclamación será de noventa días corridos, contados desde que sea conocido el acto impugnado. El tribunal podrá decretar, a petición de parte, la suspensión provisional de los efectos del acto impugnado para asegurar la eficacia de la decisión que pudiera recaer, si existiesen elementos de juicio suficientes para ello.  
+Para la tramitación de esta reclamación serán aplicables, en lo pertinente, las reglas del juicio sumario del Libro III Título XI del Código de Procedimiento Civil.
+
+*Sexta.-*  
+Los juzgados de policía local se entenderán suprimidos en el plazo que establezca la ley que regule los juzgados vecinales, la cual deberá dictarse en el plazo de dos años desde la entrada en vigencia de esta Constitución.  
+El nombramiento de los jueces y el personal de planta que habrán de servir en los juzgados vecinales se regirá por las reglas comunes. No obstante ello, la ley podrá establecer mecanismos transparentes, con criterios técnicos y de mérito profesional, para que las y los jueces y personal de planta de los juzgados de policía local puedan optar a cargos equivalentes en los juzgados vecinales, o sean traspasados a éstos, en su caso.
+
+*Séptima.-*  
+Dentro del plazo de dos años desde la entrada en vigencia de esta Constitución, deberá dictarse la ley sobre el Consejo de Justicia.  
+Para todos los efectos, se entenderá que el Consejo de la Justicia es el continuador legal y sucesor en todos los bienes, derechos y obligaciones de, entre otras, la Corporación Administrativa del Poder Judicial, de la Junta de Servicios Judiciales y de la Oficina de Presupuesto para el Poder Judicial. La ley respectiva deberá determinar el proceso de traspaso de los funcionarios, cualquiera sea su régimen de contratación, desde los organismos señalados al Consejo de la Justicia.
+
