@@ -320,14 +320,11 @@ Todas las personas tienen derecho a acceder a la información ambiental pública
 
 ### De los Tribunales del Sistema Nacional de Justicia
 
-### De los Tribunales del Sistema Nacional de Justicia
-
 **Principio de unidad jurisdiccional.**  
 Los tribunales de justicia se estructuran conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento, estando sujetos al mismo estatuto jurídico y principios.
 
 **Diferenciación funcional y estatuto común de los tribunales.**  
 Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.  
-Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares.  
 La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.
 
 **Cesación de juezas y jueces.**  
@@ -343,31 +340,17 @@ El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se
 Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.
 
 **Principio de proximidad e itinerancia.**  
-Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional
+Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.
 
 **De los tribunales.**  
-El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema.  
-Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.
-
-**Acceso a la justicia intercultural.**  
-Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural.  
-En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.
-
-**Tutela efectiva de los derechos de los pueblos y naciones indígenas.**  
-Las personas pertenecientes a pueblos y naciones indígenas tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados, con pleno respeto a sus prácticas, sistemas jurídicos propios y los derechos garantizados en esta Constitución y el Derecho Internacional de los Derechos Humanos.
+El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema. 
 
 **De la Corte Suprema.**  
 La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley.  
-Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización.  
-Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema.  
-Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley.  
-La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas
+La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.
 
 **De las Cortes de Apelaciones.**  
 Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley.  
-Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización.  
-Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley.  
-La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.
 
 **De los Tribunales de Instancia.**  
 Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley.  
@@ -383,10 +366,7 @@ La ley establecerá un procedimiento unificado, simple y expedito para conocer y
 
 **Establecimientos penitenciarios.**  
 Sólo el Estado puede ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines.  
-La función establecida en este 
-
-
-no podrá ser ejercida por privados.  
+La función establecida en este artículo no podrá ser ejercida por privados.  
 Para la inserción, integración y reparación de las personas privadas de libertad, los establecimientos penitenciarios deben contar con espacios para el estudio, trabajo, deporte, las artes y culturas.  
 En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto en el régimen de control cerrado, abierto y post penitenciario.
 
@@ -410,21 +390,8 @@ Los centros de justicia vecinal son órganos encargados de promover la solución
 Los centros de justicia vecinal deberán orientar e informar al público en materias jurídicas, haciendo las derivaciones que fuesen necesarias, así como ejercer las demás funciones que la ley les encomiende.  
 La organización, atribuciones, materias y procedimientos que correspondan a los centros de justicia vecinal se regirán por la ley respectiva.
 
-### Justicia Feminista
-
 El Sistema de Justicia deberá adoptar todas las medidas para prevenir, sancionar y erradicar la violencia contra mujeres, disidencias y diversidades sexo genéricas, en todas sus manifestaciones y ámbitos.  
 El Consejo de la Justicia deberá asegurar la formación inicial y capacitación constante de la totalidad de funcionarias y funcionarios y auxiliares de la administración de justicia, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género, el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia.  
-Se promoverá la creación de salas especializadas para conocer las causas de acoso, discriminación y otras formas de violencia contra mujeres, disidencias y diversidades sexo genéricas, en coordinación con los organismos e instituciones necesarias para otorgar una respuesta estatal adecuada, oportuna e integral.  
-Todos los órganos auxiliares de justicia que intervengan en las salas especializadas, deben tener formación en la materia.
-
-**Perspectiva de género y paridad.**  
-La función jurisdiccional debe ejercerse con perspectiva de género y bajo un enfoque interseccional, debiendo sus agentes garantizar la igualdad sustantiva de género y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia.  
-Este mandato es extensivo a toda persona u órgano jurisdiccional, órganos auxiliares y funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.  
-El principio de paridad de género orientará la estructura, organización y puesta en práctica de la función jurisdiccional. El Consejo de la Justicia garantizará que los nombramientos de los órganos del Sistema Nacional de Justicia respeten este principio en todos los escalafones, incluyendo la designación de las presidencias que se sujetarán, a lo menos, al criterio de alternancia de género. Para un adecuado cumplimiento de este mandato el Consejo de la Justicia implementará medidas de acción afirmativa.
-
-**Reparación integral.**  
-El Estado generará mecanismos adecuados y procesos restaurativos, en colaboración y co-gestión con organizaciones sociales y comunitarias sin fines de lucro, que posibiliten la reparación integral de las víctimas.  
-Los procesos restaurativos permitirán a las víctimas, cuando ellas lo consideren necesario y justo, optar por instancias alternativas a las judiciales que se adecuen a sus necesidades.
 
 ### Sistemas jurídicos indígenas
 
@@ -451,36 +418,14 @@ En el ejercicio de sus atribuciones debe considerar el principio de no discrimin
 Son atribuciones del Consejo de la Justicia:
   
     a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
-    b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley,  
-    c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley.  
-    d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
-    e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.  
-    f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.  
-    g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.  
-    h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.  
-    i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.  
-    j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local.  
-    k) Las demás que encomiende esta Constitución y las leyes.
-
-**Composición del Consejo de la Justicia.**
-El Consejo de la Justicia se compone por diecisiete integrantes elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial, conforme a la siguiente integración:
-  
-    a) Seis integrantes serán juezas o jueces titulares elegidos por sus pares.  
-    b) Tres integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.  
-    c) Dos integrantes elegidos por los pueblos originarios.  
-    d) Seis integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública.
-
-Las y los integrantes del Consejo de la Justicia señalados en las letras d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. En los demás casos los integrantes deberán contar con las competencias necesarias para el ejercicio del cargo.  
-Las y los integrantes del Consejo de la Justicia durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.
 
 **Funcionamiento del Consejo de la Justicia.**
 El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución.  
-El Consejo se organizará descentralizadamente, desplegándose a través de administradores zonales.  
 La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.
 
 **Inhabilidades e incompatibilidades.** 
 Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo.  
-Las y los consejeros indicados en las letras a) y b) del artículo sobre Composición del Consejo de la Justicia se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.
+Las y los consejeros indicados en las letras a) y b) del *artículo sobre Composición del Consejo de la Justicia* se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.
 
 **Sobre las causales de cesación de quienes integran el Consejo de la Justicia.**
 Las y los integrantes del Consejo cesarán en su cargo al término de su período, por cumplir setenta años de edad, por remoción, renuncia, incapacidad física o mental sobreviniente o condena por delito que merezca pena aflictiva.  
