@@ -1,10 +1,10 @@
 ## Sistema Político, Gobierno, Poder Legislativo y Sistema Electoral
 
-Corresponderá al Estado, en sus diferentes ámbitos y funciones, garantizar la participación democrática e incidencia política de la sociedad, asegurando la participación de los grupos oprimidos e históricamente excluidos y de especial protección.  
-El Estado deberá garantizar la inclusión de estos grupos en las políticas públicas y en el proceso de formación de las leyes, mediante mecanismos de participación popular y deliberación política, asegurando medidas afirmativas que posibiliten su integración efectiva.
+### De la Democracia
 
+
+### Del Estado Plurinacional y libre determinación de los Pueblos
 Chile es un Estado Plurinacional e Intercultural que reconoce la coexistencia de diversas naciones y pueblos en el marco de la unidad del Estado.  
-Los pueblos y naciones indígenas son preexistentes al Estado de Chile por habitar en el territorio desde tiempos ancestrales y ser anteriores a su conformación o a sus actuales fronteras. Son titulares del derecho de libre determinación, así como de los demás derechos colectivos reconocidos y garantizados conforme a esta Constitución, los tratados internacionales de derechos humanos ratificados y vigentes en Chile y la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas.  
 Son pueblos y naciones indígenas preexistentes los Mapuche, Aymara, Rapa Nui, Lickanantay, Quechua, Colla, Diaguita, Chango, Kawashkar, Yaghan, Selk'nam y otros que puedan ser reconocidos en la forma que establezca la ley.
 
 Los pueblos y naciones indígenas preexistentes y sus miembros, en virtud de su libre determinación, tienen derecho al pleno ejercicio de sus derechos colectivos e individuales. En especial, tienen derecho a la autonomía y al autogobierno, a su propia cultura, a la identidad y cosmovisión, al patrimonio y la lengua, al reconocimiento de sus tierras, territorios, la protección del territorio marítimo, de la naturaleza en su dimensión material e inmaterial y al especial vínculo que mantienen con estos, a la cooperación e integración, al reconocimiento de sus instituciones, jurisdicciones y autoridades propias o tradicionales y a participar plenamente, si así lo desean, en la vida política, económica, social y cultural del Estado.  
