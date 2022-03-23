@@ -208,9 +208,12 @@ Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la 
     5. Aprobar, modificar o rechazar el Plan Regional de manejo integrado de cuencas.  
     6. Dictar su reglamento interno de funcionamiento.  
     7. Aprobar, a propuesta del Gobernador o Gobernadora Regional y previa ratificación del Consejo Territorial, la creación de empresas públicas regionales o la participación en empresas regionales.  
-    9. Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.  
-    10. Iniciar el trámite legislativo ante el Consejo Territorial en materias de interés regional.  
-    12. Las demás atribuciones que determine la Constitución y la ley.
+    8. Concurrir, en conjunto con el Gobernador Regional, en el ejercicio de la potestad reglamentaria, en la forma prescrita por la Constitución y las leyes.  
+    9. Ejercer la potestad reglamentaria de ejecución de ley cuando esta lo encomiende y dictar los demás reglamentos en materias de competencia de la región autónoma.
+    10. Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.  
+    11. Iniciar el trámite legislativo ante el Consejo Territorial en materias de interés regional.  
+    12. Solicitar al Congreso la transferencia de la potestad legislativa en materias de interés de la Región Autónoma respectiva, en conformidad a la ley.  
+    13. Las demás atribuciones que determine la Constitución y la ley.
 
 **De las atribuciones exclusivas del Gobierno Regional.**  
 Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
