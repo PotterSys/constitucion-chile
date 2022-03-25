@@ -301,7 +301,7 @@ Se garantiza el derecho a votar en las elecciones de carácter nacional, preside
 ### Crisis climática
 
 **Crisis climática y ecológica.**  
-El Estado reconoce la existencia de la crisis climática y ecológica como consecuencia de la actividad humana. Es deber del Estado desarrollar acciones y adoptar medidas en todos los niveles para la gestión de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica, en función de los principios de acción climática justa, progresividad y no regresión, justicia intergeneracional, los derechos de los pueblos indígenas y la Naturaleza, y los principios establecidos por la Constitución y las Leyes. La ley establecerá los deberes del Estado y de las personas para enfrentar la crisis climática y ecológica.  
+Es deber del Estado adoptar acciones de prevención, adaptación, y mitigación de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica.  
 El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.
 
 ### Reconocimiento y protección de los derechos de la Naturaleza
@@ -318,19 +318,20 @@ La Ley podrá establecer restricciones al ejercicio de determinados derechos o l
 **De la gestión de residuos.**  
 Es deber del Estado normar y fomentar la gestión, reducción y valorización de residuos, en la forma que determine la Ley.
 
-**Derechos de los animales.**  
-El Estado protegerá a los animales, reconociendo su sintiencia, individualidad y derecho a vivir una vida libre de maltrato.  
-La ley establecerá los demás derechos de los animales, un servicio público para su protección y no extinción, una acción para su tutela, el resguardo de su hábitat y la prohibición de prácticas que los sujeten a tratos crueles.
+**De los animales.**  
+Los animales son sujetos de especial protección. El Estado los protegerá, reconociendo su sintiencia, y el derecho a vivir una vida libre de maltrato.  
+El Estado y sus organismos promoverán una educación basada en la empatía y en el respeto hacia los animales.
 
-El Estado fomentará una educación basada en la empatía hacia los animales y propenderá, a través de la ley, sus órganos y políticas públicas, al bienestar animal.
+El Estado protege la biodiversidad, debiendo preservar, conservar y restaurar el hábitat de las especies nativas silvestres, en tal cantidad y distribución que sostenga adecuadamente la viabilidad de sus poblaciones y asegure las condiciones para su supervivencia y no extinción.
 
 ### Principios ambientales
 
 **Principios ambientales.**  
 Son principios para la protección de la Naturaleza y el medio ambiente, a lo menos, los principios de progresividad, precautorio, preventivo, justicia ambiental, solidaridad intergeneracional, responsabilidad y acción climática justa.
 
-**Derecho de participación ambiental.**  
-Se reconoce el derecho de participación vinculante e incidente en la toma de decisiones ambientales. Los mecanismos de participación serán determinados por ley.
+**Democracia ambiental.**  
+Se reconoce el derecho de participación informada en materias ambientales. Los mecanismos de participación serán determinados por ley.  
+Todas las personas tienen derecho a acceder a la información ambiental que conste en poder o custodia del Estado. Los particulares deberán entregar la información ambiental relacionada con su actividad, en los términos que establezca la ley.
 
 **Derecho de acceso a la información ambiental.**  
 Todas las personas tienen derecho a acceder a la información ambiental pública, que conste en poder o custodia del Estado, y de las empresas, instituciones y organismos que presten servicio al Estado. La ley promoverá la generación, recopilación, preservación y difusión de la información ambiental para cumplir con los derechos establecidos en este párrafo.
