@@ -319,21 +319,61 @@ Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 Los derechos fundamentales son universales, inalienables, indivisibles e interdependientes entre sí. Comprenden los derechos de la naturaleza, realidad íntimamente ligada al desarrollo de la vida, de las comunidades, de las naciones y de los pueblos como de las futuras generaciones. La protección, promoción y satisfacción de los derechos humanos es un fin primordial del Estado y de la sociedad.  
 El pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.
 
+**Cláusula de obligaciones generales y sujetos obligados.**  
+El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.  
+Toda persona, institución, asociación o grupo deberá respetar los derechos fundamentales, conforme a la Constitución y las leyes.  
+
 **Principio de progresividad y no regresión de los derechos fundamentales.**  
 El Estado debe adoptar todas las medidas necesarias para lograr de manera progresiva la plena satisfacción de los derechos fundamentales. Ninguna medida podrá tener un carácter regresivo que disminuya, menoscabe o impida injustificadamente su ejercicio.
 
-**Libertad personal ambulatoria**
+**Titularidad de los derechos.**  
+Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente.  
+Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos.  
+La Naturaleza será titular de los derechos reconocidos en esta Constitución que le sean aplicables.
 
-Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.  
+**Derecho a la libertad de conciencia, pensamiento, creencias, cosmovisión y religión**  
+Toda persona tiene derecho a la libertad de pensamiento, de conciencia, de religión y cosmovisión; este derecho incluye la libertad de profesar y cambiar de religión o creencias. Ninguna religión, ni creencia es la oficial del Estado, sin perjuicio de su reconocimiento y libre ejercicio en el espacio público o privado, mediante el culto, la celebración de los ritos, las prácticas espirituales y la enseñanza.  
+Podrán erigir templos, dependencias y lugares para el culto; mantener, proteger y acceder a los lugares sagrados y aquellos de relevancia espiritual, rescatar y preservar los objetos de culto o que tengan un significado sagrado.  
+El Estado reconoce la espiritualidad como elemento esencial del ser humano.  
+Las agrupaciones religiosas y espirituales podrán organizarse como personas jurídicas de conformidad a la ley, respetando los derechos, deberes y principios que esta Constitución establece. Éstas no podrán perseguir fines de lucro y sus bienes deberán gestionarse de forma transparente de acuerdo con lo que establezca la ley.
+
+**Libertad de expresión.**  
+Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.  
+No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.  
+
+**El derecho a vivir en entornos seguros y libres de violencia**
+Es deber del Estado proteger en forma equitativael ejercicio de este derecho a todas las personas, a través de una política de prevención de la violencia y el delito que considerará especialmente las condiciones materiales, ambientales, sociales y el fortalecimiento comunitario de los territorios.  
+Las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social de las personas condenadas, serán desarrolladas por los organismos públicos que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos humanos.  
+
+**Libertad personal ambulatoria**  
+Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.
+
+**Derecho a la libertad ambulatoria.**  
+Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.
+
+**Prohibición de desplazamiento forzado.**  
+Ninguna persona será sometida a desplazamiento forzado dentro del territorio nacional, salvo en las excepciones que establezca la ley.  
+
+**Derecho a la identidad.**  
+Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus dimensiones y manifestaciones, incluyendo las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas.  
+El Estado garantizará el pleno ejercicio de este derecho a través de acciones afirmativas, procedimientos y leyes correspondientes.
 
 **Derecho a la autonomía y a la libre determinación.**  
 Toda persona tiene derecho a la libertad, entendida como la libre determinación de su personalidad, de sus proyectos de vida, de su identidad y la autonomía sobre su cuerpo.  
 El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.  
 Se prohíbe la esclavitud, el trabajo forzado, la servidumbre y la trata de personas en cualquiera de sus formas. El Estado adoptará las medidas de prevención, sanción y erradicación de la esclavitud, el trabajo forzado, la servidumbre y la trata de personas, y de protección, plena restauración de derechos, remediación y reinserción social de las víctimas.
 
+**Libertad de emprender y de desarrollar actividades económicas.**  
+Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza.  
+El contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio, las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.  
+Las prácticas de colusión entre empresas y abusos de posición monopólica, así como las concentraciones empresariales que afecten el funcionamiento eficiente, justo y leal de los mercados, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables.
 
-**Derechos sexuales y reproductivos**
+**Inviolabilidad del hogar y de las comunicaciones**  
+La protección, promoción y respeto del derecho a la privacidad de las personas, sus familias y comunidades. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio del derecho a la privacidad salvo en los casos y formas que determine la ley.  
+Los recintos privados son inviolables. La entrada, registro o allanamiento sólo se podrán realizar con orden judicial previa dictada en los casos específicos y en la forma que determine la ley, salvo las hipótesis de flagrancia.  
+Toda forma de documentación y comunicación privada es inviolable, incluyendo sus metadatos. La interceptación, captura, apertura, registro o revisión sólo se podrá realizar con orden judicial previa dictada en la forma y para los casos específicos que determine la ley.
 
+**Derechos sexuales y reproductivos**  
 Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.  
 El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones.  
 El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.
@@ -341,6 +381,14 @@ El Estado reconoce y garantiza el derecho de las personas a beneficiarse del pro
 **Educación sexual integral.**  
 Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.  
 Es deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes.
+
+**Derecho de propiedad.**  
+Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.  
+Los títulos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.  
+Corresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, límites y deberes, conforme con su función social y ecológica.
+
+Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.
+
 
 **Derecho a la vida y a la integridad física y psíquica.**
 
@@ -360,6 +408,9 @@ Los crímenes de guerra, los delitos de lesa humanidad, la desaparición forzada
 **Deberes de prevención, investigación y sanción.**  
 Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 26. Tales crímenes deberán ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia, imparcialidad y en conformidad con los estándares establecidos en los tratados internacionales ratificados y vigentes en Chile.
 
+**Derecho a reunirse y manifestarse pacíficamente.**  
+Todas las personas tienen derecho a reunirse y manifestarse en lugares privados y públicos, sin permiso previo.  
+Las reuniones en lugares de acceso público sólo podrán restringirse en conformidad a la ley.
 
 **Libertad de asociación**
 
@@ -376,6 +427,20 @@ El Estado reconoce la función social, económica y productiva de las cooperativ
 **Derechos de las personas chilenas residentes en el extranjero**
 
 Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales, parlamentarias, plebiscitos y consultas, de conformidad a esta Constitución y las leyes.
+
+*Derechos de las personas frente a la Administración del Estado.*  
+
+    1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.
+    2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.  
+    3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.  
+    4. Obtener una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos y las acciones correspondientes.  
+    5. Ser oída, especialmente antes de que se tome en contra suya una medida que le afecte desfavorablemente.
+
+Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.
+
+**Derecho de petición.**  
+Toda persona tiene derecho a presentar peticiones, exposiciones o reclamaciones ante cualquier autoridad del Estado.  
+La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta a lo solicitado, además de la manera en que se garantizará el principio de plurilingüismo en el ejercicio de este derecho.
 
 ## Medio Ambiente, Derechos de la Naturaleza, Bienes Naturales Comunes y Modelo Económico.
 
