@@ -54,6 +54,87 @@ El Estado reconoce los símbolos y emblemas plurinacionales propios de los disti
 
 ## Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
 
+**De la Comuna Autónoma.**
+La Comuna Autónoma es la entidad territorial base del Estado regional, dotada de personalidad jurídica de derecho público y patrimonio propio, que gozan de autonomía para el cumplimiento de sus fines y el ejercicio de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.  
+La ley clasificará las comunas en distintos tipos, las que deberán ser consideradas por los órganos del Estado para el establecimiento de regímenes administrativos y económico-fiscales diferenciados, la implementación de políticas, planes y programas atendiendo a las diversas realidades locales, y en especial, para el traspaso de competencias y recursos. El establecimiento de los tipos comunales deberá considerar, a lo menos, criterios demográficos, económicos, culturales, geográficos, socioambientales, urbanos y rurales.
+
+**Igualdad en la prestación de los servicios públicos municipales y desarrollo equitativo.**  
+El Estado garantizará a la Municipalidad el financiamiento y recursos suficientes, para el justo y equitativo desarrollo de cada comuna, conforme a los mecanismos que señale la Constitución y la ley.  
+Para el gobierno comunal se observará como principio básico la búsqueda de un desarrollo territorial armónico y equitativo, propendiendo a que todas las personas tengan acceso a igual nivel y calidad de servicios públicos municipales, sin distingo del lugar que habiten.
+
+**De la creación o supresión de Comunas Autónomas.**  
+Una ley regulará la administración transitoria de las comunas que se creen, el procedimiento de instalación de las nuevas municipalidades, de traspaso del personal municipal y de los servicios y los resguardos necesarios para cautelar el uso y disposición de los bienes que se encuentren situados en los territorios de las nuevas comunas.
+
+**De la cooperación internacional de regiones y comunas autónomas.**  
+En los términos que establezca la ley, las regiones y comunas autónomas ubicadas en zonas fronterizas, podrán vincularse con las entidades territoriales limítrofes del país vecino, de igual nivel, a través de sus respectivas autoridades, para establecer programas de cooperación e integración, dirigidos a fomentar el desarrollo comunitario, la prestación de servicios públicos y la conservación del medio ambiente.
+
+Las municipalidades, para el cumplimiento de sus funciones, podrán establecer sus plantas de personal y los órganos o unidades de su estructura interna, en conformidad a la Constitución y la ley.  
+Estas facultades se ejercerán cautelando su debido financiamiento y el carácter técnico y profesional de dichos empleos.
+
+**De la participación en la comuna autónoma.**  
+Las municipalidades tienen el deber de promover y garantizar la participación ciudadana de la comunidad local en la gestión, en la construcción de políticas de desarrollo local y en la planificación del territorio, así como en los casos que esta Constitución, la ley y los estatutos regionales o comunales señalen.  
+Las Municipalidades proveerán los mecanismos, espacios, recursos, alfabetización digital, formación y educación cívica y todo aquello que sea necesario para concretar dicha participación que será consultiva, incidente y/o vinculante de acuerdo a la legislación respectiva.  
+
+**Del Gobierno Comunal.**  
+El gobierno de la Comuna Autónoma reside en la Municipalidad, la que estará constituida por el Alcalde o Alcaldesa y el Concejo Municipal, con la participación de la comunidad que habita en su territorio.
+
+**Concejo Municipal.**  
+El Concejo Municipal es el órgano colegiado de representación popular y vecinal, dotado de funciones normativas, resolutivas y fiscalizadoras, en conformidad a la Constitución y la ley.  
+El Concejo Municipal estará integrado por el número de personas que determine la ley, en proporción a la población de la comuna, según los criterios de inclusión, paridad de género y escaños reservados para pueblos y naciones indígenas considerando su población dentro de la jurisdicción electoral respectiva.  
+La elección de concejales y concejalas será por sufragio universal, directo y secreto, en conformidad a la ley.  
+Los concejales o concejalas ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos o reelegidas consecutivamente sólo una vez para el período siguiente. Para estos efectos se entenderá que los concejales y concejalas han ejercido su cargo durante un período cuando hayan cumplido más de la mitad de su mandato.  
+La ley y el estatuto comunal determinarán las normas sobre organización y funcionamiento del Concejo. Será necesario el acuerdo del Concejo para la aprobación del plan comunal de desarrollo, del presupuesto municipal y de los proyectos de inversión respectivos, y otros que determine la ley.  
+
+**Del Alcalde o Alcaldesa.**  
+El Alcalde o Alcaldesa es la máxima autoridad ejecutiva del gobierno comunal, integra el Concejo Municipal y representa judicial y extrajudicialmente a la comuna.  
+El alcalde o alcaldesa ejercerá sus funciones por el término de cuatros años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. Para estos efectos se entenderá que el alcalde o alcaldesa ha ejercido su cargo durante un período cuando haya cumplido más de la mitad de su mandato.  
+El alcalde o alcaldesa será elegido en votación directa, en conformidad con lo dispuesto en la Constitución y la ley.  
+El Alcalde o Alcaldesa ejercerá la presidencia del Concejo Municipal.
+
+**De las Unidades y Juntas Vecinales.**  
+Las Comunas Autónomas establecerán en el ámbito de sus competencias, territorios denominados unidades vecinales. Dentro de ellas, se constituirá una Junta Vecinal, representativa de las personas que residenen una misma unidad vecinal, que gozará de personalidad jurídica y será sin fines de lucro, cuyo objeto será hacer efectiva la participación popular en la gestión comunal y en el desarrollo de la comunidad, y las demás atribuciones que determine la ley.  
+La ley dispondrá la forma de determinar el territorio de las Unidades Vecinales, el procedimiento de constitución de las Juntas Vecinales y Uniones Comunales y sus atribuciones.
+
+**De la Asamblea Social Comunal.**  
+La Asamblea Social Comunaltiene la finalidad de promover la participación popular y ciudadana en los asuntos públicos de la Comuna Autónoma, de carácter consultivo, incidente y representativo de las organizaciones de la comuna.  
+
+**De las Competencias de la Comuna Autónoma.**  
+La Comuna Autónoma cuenta con todas las potestades y competencias de autogobierno para satisfacer las necesidades de la comunidad local.
+
+Son competencias esenciales de la Comuna Autónoma:  
+    1. El desarrollo estratégico de la comuna mediante el Plan de Desarrollo Comunal.  
+    2. La prestación de los servicios públicos que determine la ley.  
+    3. Construir las obras que demande el progreso local en el marco de sus atribuciones.  
+    4. La planificación del territorio mediante el Plan Regulador Comunal acordado de forma participativa con la comunidad de su respectivo territorio.  
+    5. Garantizar la participación popular y el fortalecimiento de la democracia;  
+    6. El fomento del comercio local;  
+    7. El desarrollo sostenible e integral de la comuna.  
+    8. La conservación, custodia y resguardo de los patrimonios culturales y naturales;  
+    9. Fomento y protección a las culturas, las artes y los patrimonios culturales y naturales, así como la investigación y la formación artística en sus territorios.  
+    10. Proteger los ecosistemas comunales y los derechos de la naturaleza;  
+    12. Desarrollar, con el nivel regional y central, actividades y servicios en materias de educación, salud, vivienda, turismo, recreación, deporte y las demás que establezca la ley.  
+    13. Ejercer funciones de gobierno y administración dentro de la comuna y en el ámbito de sus competencias.  
+    14. Fomentar las actividades productivas.  
+    15. La creación, organización y administración de los servicios públicos municipales en el ámbito de sus funciones, conforme a la Constitución y la ley.  
+    16. La dictación de normas generales y obligatorias en materias de carácter comunal, con arreglo a la Constitución y las leyes.  
+    20. La ejecución de los mecanismos y acciones de protección ambiental en la forma que determine la Constitución, la ley, los instrumentos de gestión ambiental y normas afines.  
+    21. Las demás competencias que determine la Constitución y la ley. 
+
+Las leyes deberán reconocer las diferencias existentes entre los distintos tipos de comunas y municipalidades, velando por la equidad, inclusión y cohesión territorial.  
+A fin de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones, las Comunas Autónomas podrán encomendar temporalmente una o más competencias a las Región Autónoma respectiva o al Estado central, conforme lo establecido en la ley.  
+A petición del alcalde o alcaldesa con acuerdo del Concejo Municipal, la Región Autónoma o el Estado, cuando así lo exija el interés general, podrán subrogar de manera transitoria y supletoria las competencias que no puedan ser asumidas por la Comuna Autónoma.
+
+**De la asociatividad comunal.**  
+Las comunas autónomas podrán asociarse entre sí, de manera permanente o temporal, pudiendo dichas organizaciones contar con personalidad jurídica de derecho privado, rigiéndose por la normativa propia de dicho sector.  
+Sin perjuicio de lo dispuesto en el inciso precedente, las asociaciones quedarán sujetas a la fiscalización de la entidad contralora y deberán cumplir con la normativa de probidad administrativa y de transparencia en el ejercicio de la función que desarrollan.
+
+**Regulación y coordinación de competencias.**  
+El legislador regulará el procedimiento de coordinación y modificación de competencias, de resolución de los conflictos o contiendas surgidas entre las entidades territoriales y los demás órganos de la Administración del Estado centralizados, descentralizados o autonómicos, y aquellos aspectos, ámbitos o competencias no señalados en la presente Constitución, respetando el derecho a la consulta previa libre e informada para obtener el consentimiento de los pueblos y sin afectar las autonomías territoriales indígenas en su competencias y atribuciones.
+
+**Acción cautelar de autonomía.**  
+Si la autoridad administrativa deniega, retrasa o no se pronuncia en el plazo establecido respecto de la constitución de la Autonomía Territorial Indígena, procederá la acción cautelar de autonomía. Esta deberá interponerse dentro del plazo de noventa días hábiles desde la notificación del acto administrativo o el vencimiento del plazo establecido, ante la Corte de Apelaciones respectiva, en la que tendrá vista preferente, solicitando el establecimiento de la Autonomía Territorial Indígena en los términos indicados en el requerimiento o la enmienda de los defectos, arbitrariedades o ilegalidades en la tramitación del procedimiento administrativo.  
+La interposición de esta acción suspenderá el plazo de presentación de la acción cautelar hasta su resolución o hasta el transcurso del plazo para su resolución. El procedimiento de tramitación de esta acción no podrá exceder de seis meses.
+
 **Del Estado Regional.**  
 Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado.  
 El Estado promoverá la cooperación, la integración armónica y el desarrollo adecuado y justo entre las diversas entidades territoriales.
