@@ -51,6 +51,51 @@ Los órganos del Estado y sus titulares e integrantes, actúan previa investidur
 Son emblemas representativos de Chile la bandera, el escudo y el himno nacional.  
 El Estado reconoce los símbolos y emblemas plurinacionales propios de los distintos pueblos indígenas y tribales.
 
+***De la democracia participativa y sus características***
+
+*Democracia Participativa.*  
+Los poderes públicos deberán facilitar la participación del pueblo en la vida política, económica, cultural y social del país. Será deber de cada órgano del Estado disponer de los mecanismos para promover y asegurar la participación y deliberación ciudadana incidente en la gestión de asuntos públicos, incluyendo medios digitales.  
+
+**Garantías democráticas.**
+El estado deberá garantizar a toda la ciudadanía, sin discriminación de ningún tipo, el ejercicio pleno de una democracia participativa, a través de mecanismos de democracia directa.  
+
+**De la participación ciudadana digital.**  
+La ley regulará la utilización de herramientas digitales en la implementación de los mecanismos de participación establecidos en esta Constitución y que sean distintos al sufragio, buscando que su uso promueva la más alta participación posible en dichos procesos, al igual que la más amplia información, transparencia, seguridad y accesibilidad del proceso para todas las personas sin distinción.
+
+***De los mecanismos de democracia directa y participación popular***
+
+**Plebiscitos regionales o comunales.**  
+Se podrán someter a referéndum las materias de competencia de los gobiernos regionales y locales en conformidad a lo dispuesto en la ley y Estatuto Regional respectivo.  
+Una ley deberá señalar los requisitos mínimos para solicitarlos o convocarlos, la época en que se podrán llevar a cabo, los mecanismos de votación, escrutinio y los casos y condiciones en que sus resultados serán vinculantes.
+
+***De la nacionalidad y la ciudadanía***
+
+**Nacionalidad.**  
+Son chilenas y chilenos, aquellas personas que:  
+    1. Hayan nacido en el territorio de Chile, con excepción de las hijas e hijos de personas extranjeras que se encuentren en Chile en servicio de su Gobierno, quienes podrán optar por la nacionalidad chilena.  
+    2. Sean hijas o hijos de padre o madre chilenos, nacidos en territorio extranjero.  
+    4. Obtuvieren especial gracia de nacionalización por ley.
+
+No se exigirá renuncia a la nacionalidad anterior para obtener la carta de nacionalización chilena.  
+
+*Derechos políticos de la ciudadanía*
+Ninguna autoridad u órgano podrá impedir el efectivo ejercicio de este derecho, debiendo a su vez proporcionar todos los medios necesarios para que las personas habilitadas para sufragar puedan ejercerlo.
+
+**Calidad política de extranjeros y de nacionalizados chilenos.**  
+Las y los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el artículo 20, podrán ejercer el derecho de sufragio activo en los casos y formas que determine la ley.  
+
+La nacionalidad chilena se pierde, exclusivamente:  
+    1. Por renuncia voluntaria manifestada ante autoridad chilena competente. Esta renuncia sólo producirá efectos si la persona, previamente, se ha nacionalizado en país extranjero;  
+    2. Por cancelación de la carta de nacionalización, siempre que la persona no se convirtiera en apátrida, salvo que se hubiera obtenido por declaración falsa o por fraude. Esto último no será aplicable a niños, niñas y adolescentes;  
+    3. Por ley que revoque la nacionalización concedida por gracia. 
+
+En el caso del número 1, la nacionalidad podrá recuperarse en conformidad al número 3 del artículo 1. En los restantes casos, sólo podrán ser rehabilitados por ley.
+
+**Reclamación de nacionalidad.**  
+La persona afectada por acto o resolución de autoridad administrativa que la prive o desconozca de su nacionalidad chilena, podrá recurrir, por sí o por cualquiera a su nombre, ante cualquier Corte de Apelaciones, conforme al procedimiento establecido en la ley. La interposición de la acción constitucional suspenderá los efectos del acto o resolución recurridos.  
+
+Ninguna persona que resida en Chile cumpliendo los requisitos que establece esta Constitución y las leyes puede ser desterrado, exiliado o relegado.  
+La ley establecerá medidas para la recuperación de la nacionalidad chilena en favor de quienes perdieron o tuvieron que renunciar a ella como consecuencia del exilio. Este derecho también se reconocerá a hijas e hijos de dichas personas.
 
 ## Forma de Estado, Ordenamiento, Autonomía, Descentralización, Equidad, Justicia Territorial, Gobiernos Locales y Organización Fiscal
 
@@ -280,8 +325,7 @@ El ejercicio de estas facultades tiene por objeto garantizar el respeto, protecc
 El Estado tendrá facultades supletorias de carácter transitorio, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de estas facultades.  
 
 **Atribuciones de la Asamblea Regional.**  
-Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional: 
-
+Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:  
     1. Fiscalizar los actos del Gobierno Regional de acuerdo con el procedimiento establecido en el Estatuto Regional.  
     2. Fiscalizar los actos de la administración regional, para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la Región Autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales.  
     3. Solicitar al Gobernador o Gobernadora Regional rendir cuenta sobre su participación en el Consejo de Gobernaciones.  
@@ -297,8 +341,7 @@ Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la 
     13. Las demás atribuciones que determine la Constitución y la ley.
 
 **De las atribuciones exclusivas del Gobierno Regional.**  
-Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
-
+Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:  
     2. Preparar y presentar ante la Asamblea Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional.  
     3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.  
     4. Preparar y presentar ante la Asamblea Regional el plan regional de ordenamiento territorial, los planes de desarrollo urbano de las áreas metropolitanas y los planes de manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley.  
@@ -429,7 +472,6 @@ El Estado reconoce la función social, económica y productiva de las cooperativ
 Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales, parlamentarias, plebiscitos y consultas, de conformidad a esta Constitución y las leyes.
 
 *Derechos de las personas frente a la Administración del Estado.*  
-
     1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.
     2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.  
     3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.  
@@ -624,14 +666,14 @@ Toda persona ofendida o injustamente aludida por un medio de comunicación e inf
 
 **Derechos culturales.**  
 
-La Constitución asegura a todas las personas y comunidades:
+La Constitución asegura a todas las personas y comunidades:  
+    1. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.  
+    2. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.  
+    3. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.  
+    4. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.  
+    5. La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.  
 
-    1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.  
-    2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.  
-    3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.  
-    4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.  
-    5°. La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.  
-    Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.  
+Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.  
 
 **Identidad e integridad cultural.** 
 Los pueblos y naciones indígenas preexistentes y sus integrantes tienen derecho a la identidad e integridad cultural, y a que se reconozcan y respeten sus formas de vida, de transmisión del conocimiento, sus cosmovisiones, el vínculo con la tierra, el mar y el territorio, sus usos, costumbres, tradiciones e instituciones propias y su lengua, los cuales se desarrollan en procesos de interrelación.  
