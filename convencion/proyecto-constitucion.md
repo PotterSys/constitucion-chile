@@ -651,6 +651,24 @@ Las decisiones adoptadas conforme a los incisos anteriores, no podrán ser revis
 
 ## Sistemas de Conocimientos, Culturas, Ciencia, Tecnología, Artes y Patrimonios
 
+**Derecho a participar y beneficiarse de los conocimientos.**  
+Toda persona, individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo, conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus aplicaciones, así como a gozar de sus beneficios.  
+
+**Rol del Estado en el patrimonio cultural indígena.**  
+El Estado, en conjunto con los pueblos y naciones indígenas preexistentes, adoptará medidas positivas para la recuperación, revitalización y fortalecimiento del patrimonio cultural indígena.
+
+**Derecho a la Protección de Datos Personales.**  
+Todas las personas tienen derecho a la protección de los datos de carácter personal, a conocer, decidir y controlar el uso de las informaciones que les conciernen.  
+
+**Deber del Estado.**  
+Es deber del Estado preservar la memoria y garantizar el acceso a los archivos y documentos, en sus distintos soportes y contenidos.Los sitios de memoria y memoriales serán objeto de especial protección, asegurando su preservación y sostenibilidad.
+
+**Patrimonios naturales y culturales.**  
+El Estado reconoce y protege los patrimonios naturales y culturales, materiales e inmateriales, y garantiza su conservación, revitalización, aumento, salvaguardia y transmisión a las generaciones futuras, cualquiera sea el régimen jurídico y titularidad de dichos bienes.  
+
+**Difusión y educación sobre patrimonios.**  
+El Estado fomentará la difusión y educación sobre los patrimonios naturales y culturales, materiales e inmateriales.
+
 **Derecho a la comunicación social.**  
 Toda persona, individual o colectivamente, tiene derecho a producir información y a participar equitativamente en la comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e información.
 
