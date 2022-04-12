@@ -20,36 +20,81 @@ Chile es un Estado social y democrático de derecho. Su carácter es plurinacion
 Es una República democrática, solidaria y paritaria que reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza.  
 Los fines de toda acción estatal son garantizar el bienestar de las personas, de la sociedad y de la naturaleza, construir las condiciones para una vida digna y remover los obstáculos que impidan o dificulten el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo.
 
+**Persona.**  
+En Chile, las personas nacen y permanecen libres, interdependientes e iguales en dignidad y derechos.  
+El Estado debe respetar, promover, proteger y garantizar los derechos fundamentales reconocidos en esta Constitución y en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Para su protección, las personas gozarán de todas las garantías eficaces, oportunas, pertinentes y universales,nacionales e internacionales.
+
+**Soberanía.**  
+La soberanía reside en el Pueblo de Chile, conformado por diversas naciones.  
+Se ejerce democráticamente, de manera directa y mediante representantes, de conformidad a lo dispuesto en esta Constitución y las leyes.  
+Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio.  
+El ejercicio de la soberanía reconoce como limitación los derechos humanos en cuanto atributo que deriva de la dignidad humana.
+
+**Democracia.**  
+En Chile, la democracia es inclusiva y paritaria. Se ejerce en forma directa, participativa, comunitaria y representativa.  
+Es deber del Estado promover y garantizar la adopción de medidas para la participación efectiva de toda la sociedad en el proceso político y el pleno ejercicio de la democracia.  
+El Estado deberá asegurar la prevalencia del interés general, y el carácter electivo de los cargos de representación política con responsabilidad de quienes ejercen el poder.  
+La actividad política organizada contribuye a la expresiónde la voluntad popular, y su funcionamiento respetará los principios de independencia, probidad, transparencia financiera y democracia interna.
+
 **Igualdad Sustantiva.**  
 La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos.  
+La Constitución asegura la igualdad sustantiva de género, obligándose a garantizar el mismo trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil.
+
+**Familias.**  
+El Estado reconoce y protege a las familias en sus diversas formas, expresiones y modos de vida, no restringiéndose a vínculos exclusivamente filiativos y consanguíneos.  
+El Estado debe garantizar a las familias una vida digna, procurando que los trabajos de cuidados no representen una desventaja para quienes los ejercen.
+
 
 **Naturaleza.**  
 Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable.  
 La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos.  
 El Estado debe adoptar una administración ecológicamente responsable y promover la educación ambiental y científica mediante procesos de formación y aprendizaje permanentes.  
 
+***Principio de Buen Vivir.***  
+El Estado reconoce y promueve una relación de equilibrio armónico entre las personas, la naturaleza y la organización de la sociedad.  
+
+***Principio de responsabilidad ambiental.***  
+Quien dañe el medio ambiente tendrá el deber de repararlo, sin perjuicio de las sanciones administrativas, penales y civiles que correspondan en conformidad a la Constitución y las leyes.
+
 Chile es un país oceánico. Es deber integral del Estado la conservación, preservación y cuidado de los ecosistemas marinos y costeros continentales, insulares y antárticos.
+
+***Recepción e integración del derecho internacional de los Derechos Humanos.***  
+El Estado tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos conforme a las disposiciones y principios del derecho internacional de los derechos humanos. Asimismo, debe prevenir, investigar, sancionar yreparar integralmente las violaciones a los derechos humanos.
+
 
 **Interculturalidad.**  
 El Estado es intercultural. Reconocerá, valorará y promoverá el diálogo horizontal y transversal entre las diversas cosmovisiones de los pueblos y naciones que conviven en el país con dignidad y respeto recíproco. El Estado deberá garantizar los mecanismos institucionales que permitan ese diálogo superando las asimetrías existentes en el acceso, distribución y ejercicio del poder y en todos los ámbitos de la vida en sociedad.
 
 **Plurilingüismo.**  
-Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus autonomías territoriales. El Estado garantizará el conocimiento, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional.  
+Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus territorios y en zonas de alta densidad poblacional de cada pueblo indígena. El Estado promueve el conocimiento, revitalización, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional.  
 El Estado reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas así como sus derechos lingüísticos en todos los ámbitos de la vida social.
+
+**Estado Laico.**  
+Chile es un Estado Laico, donde se respeta y garantiza la libertad de religión y de creencias espirituales. Ninguna religión, ni creencia en particular es la oficial del Estado, sin perjuicio de su reconocimiento y libre ejercicio, el cual no tiene más limitación que lo dispuesto por esta Constitución.  
 
 **Probidad y Transparencia.**  
 El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular.  
 Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley.  
+La Constitución asegura a todas las personas la transparencia de la información pública en poder del Estado facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que podrá ordenarse la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.  
 Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos.  
 
 **Supremacía Constitucional y Legal.**  
 Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo.  
 Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos.  
+Ninguna magistratura, ninguna persona ni grupo de personas pueden atribuirse, ni aun a pretexto de circunstancias extraordinarias, autoridad, derechos o facultades distintas a las expresamente conferidas en virtud de la Constitución o las leyes.  
+Todo acto en contravención a este artículo es nulo y originará las responsabilidades y sanciones que la ley señale. La acción de nulidad se ejercerá en los plazos y condiciones establecidos por esta Constitución y la ley.  
+Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes, ni aun a pretexto de circunstancias extraordinarias.
 
+**Emblemas.**  
+Son emblemas nacionales de Chile la bandera, el escudo y el himno nacional. El Estado reconoce los símbolos y emblemas de los distintos pueblos indígenas.  
+Junto a los emblemas de Chile, cada región del país podrá tener una bandera, escudo e himno regional. Las características de estos emblemas serán definidas y aprobadas por los respectivos Gobiernos Regionales.
 
-**Emblemas Nacionales.**  
-Son emblemas representativos de Chile la bandera, el escudo y el himno nacional.  
-El Estado reconoce los símbolos y emblemas plurinacionales propios de los distintos pueblos indígenas y tribales.
+**Principio de sostenibilidad y responsabilidad fiscal.**  
+Las finanzas públicas se conducirán de conformidad a los principios de sostenibilidad y responsabilidad fiscal, los que guiarán el actuar del Estado en todas sus instituciones y en todos sus niveles.
+
+El Estado podrá intervenir en la economía a través de sus órganos, desarrollando actividades económicas y prestacionales conforme a la ley.  
+En su intervención, el Estado perseguirá el desarrollo humano sostenible y la preservación del ecosistema, incentivando la participación ciudadana. La ley establecerá los mecanismos para concretar estos deberes.  
+La intervención estatal es obligatoria en aquellos ámbitos que aseguren prestaciones existenciales de las personas, servicio público y preservación del ecosistema. En estos ámbitos, el Estado es el titular original de la provisión, para lo cual deberá establecer estándares de funcionamiento y calidad.  
 
 ***De la democracia participativa y sus características***
 
@@ -180,9 +225,10 @@ El legislador regulará el procedimiento de coordinación y modificación de com
 Si la autoridad administrativa deniega, retrasa o no se pronuncia en el plazo establecido respecto de la constitución de la Autonomía Territorial Indígena, procederá la acción cautelar de autonomía. Esta deberá interponerse dentro del plazo de noventa días hábiles desde la notificación del acto administrativo o el vencimiento del plazo establecido, ante la Corte de Apelaciones respectiva, en la que tendrá vista preferente, solicitando el establecimiento de la Autonomía Territorial Indígena en los términos indicados en el requerimiento o la enmienda de los defectos, arbitrariedades o ilegalidades en la tramitación del procedimiento administrativo.  
 La interposición de esta acción suspenderá el plazo de presentación de la acción cautelar hasta su resolución o hasta el transcurso del plazo para su resolución. El procedimiento de tramitación de esta acción no podrá exceder de seis meses.
 
-**Del Estado Regional.**  
-Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado.  
-El Estado promoverá la cooperación, la integración armónica y el desarrollo adecuado y justo entre las diversas entidades territoriales.
+**Estado**  
+Chile es un Estado social y democrático de derecho. Es plurinacional, intercultural y ecológico.  
+Se constituye como una República solidaria, su democracia es paritaria y reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza.  
+La protección y garantía de los derechos humanos individuales y colectivos son el fundamento del Estado y orientan toda su actividad. Es deber del Estado generar las condiciones necesarias y proveer los bienes y servicios para asegurar el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo.
 
 **De las Entidades Territoriales.**  
 El Estado se organiza territorialmente en regiones autónomas , comunas autónomas, autonomías territoriales indígenas y territorios especiales.  
@@ -533,6 +579,7 @@ Los tribunales de justicia se estructuran conforme al principio de unidad jurisd
 
 **Diferenciación funcional y estatuto común de los tribunales.**  
 Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.  
+Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares, interinos, suplentes o subrogantes.  
 La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.
 
 **Cesación de juezas y jueces.**  
@@ -551,14 +598,23 @@ Todas las etapas de los procedimientos y las resoluciones judiciales son públic
 Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.
 
 **De los tribunales.**  
-El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema. 
+El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema.  
+Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral de la gestión por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar su correcto funcionamiento, en conformidad a lo establecido en la Constitución y la ley. Esta revisión, en ningún caso, incluirá las resoluciones judiciales.
+
+**Acceso a la justicia intercultural.**  
+Es deber del Estado garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural.  
+Las personas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos, cuando así lo requieran y no puedan proveérselas por sí mismas.
 
 **De la Corte Suprema.**  
 La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley.  
+Se compondrá de veintiún juezas y jueces y funcionará en pleno o salas especializadas.  
+Sus juezas y jueces durarán en sus cargos un máximo de catorce años, sin posibilidad de reelección.  
 La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.
 
 **De las Cortes de Apelaciones.**  
 Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley.  
+Funcionarán en pleno o en salas preferentemente especializadas.  
+La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años.
 
 **De los Tribunales de Instancia.**  
 Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley.  
@@ -601,20 +657,21 @@ La organización, atribuciones, materias y procedimientos que correspondan a los
 El Sistema de Justicia deberá adoptar todas las medidas para prevenir, sancionar y erradicar la violencia contra mujeres, disidencias y diversidades sexo genéricas, en todas sus manifestaciones y ámbitos.  
 El Consejo de la Justicia deberá asegurar la formación inicial y capacitación constante de la totalidad de funcionarias y funcionarios y auxiliares de la administración de justicia, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género, el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia.  
 
-### Sistemas jurídicos indígenas
+**Perspectiva interseccional.**  
+La función jurisdiccional debe ejercerse bajo un enfoque interseccional, debiendo garantizar la igualdad sustantiva y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia.  
+Este deber resulta extensivo a todo órgano jurisdiccional y auxiliar, funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia.
 
 **De los sistemas jurídicos de los pueblos y naciones indígenas.**
 Los pueblos y naciones indígenas tienen derecho a conservar, fortalecer y desarrollar sus sistemas jurídicos, que comprenden sus autoridades, instituciones, derecho propio y funciones jurisdiccionales, con pleno respeto a los derechos humanos y de la naturaleza interpretados con enfoque intercultural.  
-Es deber del Estado respetar, garantizar y promover los sistemas jurídicos indígenas
+Es deber del Estado respetar, garantizar y promover los sistemas jurídicos indígenas.
 
 **Coordinación y cooperación.**
 El Estado, con consentimiento de los pueblos, establecerá los mecanismos de coordinación entre las jurisdicciones indígenas y las entidades estatales; las distintas formas de cooperación; los requisitos, procedimientos y efectos de la acción de competencia y del recurso de revisión, el auxilio de la fuerza pública para la ejecución de las decisiones de la jurisdicción indígena y las demás materias necesarias para su implementación.  
 Las partes siempre podrán ejercer una acción de competencia cuando consideren que su caso debe ser conocido por una sede jurisdiccional distinta.  
 El derecho de las personas para optar por un sistema de justicia indígena propio o por el sistema nacional de justicia se determinará conforme a las reglas que establezca la ley.
 
-**Del recurso de revisión de los actos de la jurisdicción indígena.**
-Las decisiones de la jurisdicción indígena sólo serán revisables por el tribunal de integración plurinacional que establezca la ley, a través de un recurso de revisión por vulneración de derechos humanos consagrados en la Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los cuales Chile es parte.  
-De constatarse la vulneración, el tribunal dictará una sentencia que reemplace la decisión en base a una perspectiva intercultural con el fin de maximizar la protección de derechos individuales y colectivos.
+**Impugnaciones contra las decisiones de la jurisdicción indígena.** 
+La Corte Suprema conocerá y resolverá de las impugnaciones deducidas en contra de las decisiones de la jurisdicción indígena, en sala especializada y asistida por una consejería técnica integrada por expertos en su cultura y derecho propio, en la forma que establezca la ley.
 
 ### Consejo de la Justicia
 
@@ -626,9 +683,32 @@ En el ejercicio de sus atribuciones debe considerar el principio de no discrimin
 Son atribuciones del Consejo de la Justicia:
   
     a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
+    b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesto en esta Constitución y la ley.  
+    c) Efectuar una revisión integral de la gestión de todos los tribunales del sistema nacional de justicia. En ningún caso incluirá las resoluciones judiciales.  
+    d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.  
+    e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.  
+    f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.  
+    g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.  
+    h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.  
+    i) Velar por la habilitación, formación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.  
+    j) Dictar instrucciones relativas a la organización y gestión administrativa de los tribunales. Estas instrucciones podrán tener un alcance nacional, regional o local.  
+    k) Las demás que encomiende esta Constitución y las leyes.
+
+**Composición del Consejo de la Justicia.**  
+El Consejo de la Justicia se compone por diecisiete integrantes, conforme a la siguiente integración:  
+    a) Ocho integrantes serán juezas o jueces titulares elegidos por sus pares.  
+    b) Dos integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.  
+    c) Dos integrantes elegidos por los pueblos indígenas en la forma que determine la Constitución y la ley.  
+    d) Cinco integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública.
+
+Las y los integrantes señalados en la letra c) deberán ser personas de comprobada idoneidad para el ejercicio del cargo y que se hayan destacado en la función pública o social.  
+En el caso de la letra d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública.  
+Las y los integrantes durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.  
+Sus integrantes serán elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial.
 
 **Funcionamiento del Consejo de la Justicia.**
 El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución.  
+El Consejo se organizará desconcentradamente, en conformidad a lo que establezca la ley.  
 La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.
 
 **Inhabilidades e incompatibilidades.** 
