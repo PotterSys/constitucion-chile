@@ -102,6 +102,7 @@ El proyecto de reforma constitucional se ingresará a la brevedad, por moción p
 - Diego Ibáñez Cotroneo – Partido Convergencia Social
 - Raúl Soto – Ex. Pdte (Cámara de Diputadas y Diputados), Sec. Técnico
 
+
 - Leonardo Cubillos Ramírez – Partido Radical de Chile
 - Juan Ignacio Latorre R. – Revolución Democrática
 - Patricio Morales Fernández - Partido Liberal
@@ -110,6 +111,7 @@ El proyecto de reforma constitucional se ingresará a la brevedad, por moción p
 - Tomás Hirsch - Acción Humanista
 - Cristián Warnken - Partido Movimiento Amarillo (*sic*) por Chile
 - Ximena Rincón – Demócratas
+
 
 - Vlado Mirosevic – (Presidente) Cámara de Diputadas y Diputados
 - Álvaro Elizalde – Presidente Senado de la República
